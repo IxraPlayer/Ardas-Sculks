@@ -1,4 +1,7 @@
 # Arda's Sculks Mod
+![Minecraft Versions](https://img.shields.io/badge/For%20MC-1.21%20%7C%201.20.1-orange)
+https://img.shields.io/discord/DWdzGSTk?label=chat&color=7289da
+https://img.shields.io/modrinth/dt/ardas_sculks
 Ardas Sculks (1.21.1+) - Source Code & Assets
 
 **Arda's Sculks** allows you to craft more powerful tools and items by enhancing the sculk mechanics in the game. Explore new dimensions, fight unique bosses, and discover the secrets of the Ancient World.
