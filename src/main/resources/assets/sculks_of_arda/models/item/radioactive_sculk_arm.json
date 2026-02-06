@@ -1,0 +1,7 @@
+{
+  "parent": "sculks_of_arda:custom/radioactive_sculk_arm",
+  "textures": {
+    "0": "sculks_of_arda:block/radioactive_sculk_arm",
+    "particle": "sculks_of_arda:item/sculkarms2"
+  }
+}

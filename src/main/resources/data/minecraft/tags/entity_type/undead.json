@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_enderman",
+    "sculks_of_arda:sculk_ghost",
+    "sculks_of_arda:sculk_creaking",
+    "sculks_of_arda:sculk_skeleton",
+    "sculks_of_arda:sculk_creeper",
+    "sculks_of_arda:sculk_fox"
+  ]
+}

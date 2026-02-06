@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/ancient_cooblestone3",
+    "up": "sculks_of_arda:block/ancient_cooblestone3",
+    "north": "sculks_of_arda:block/ancient_cooblestone3",
+    "east": "sculks_of_arda:block/ancient_cooblestone3",
+    "south": "sculks_of_arda:block/ancient_cooblestone3",
+    "west": "sculks_of_arda:block/ancient_cooblestone3",
+    "particle": "sculks_of_arda:block/ancient_cooblestone3"
+  },
+  "render_type": "solid"
+}

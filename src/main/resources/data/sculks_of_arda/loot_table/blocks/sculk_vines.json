@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "sculks_of_arda:blocks/sculk_vines",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sculks_of_arda:sculk_vines",
+          "conditions": [
+            {
+              "block": "sculks_of_arda:sculk_vines",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

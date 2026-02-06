@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:sculk_bone_block"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:warden_claws",
+    "count": 9
+  }
+}

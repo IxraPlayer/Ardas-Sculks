@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:sculk_log_log"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:sculk_log_planks",
+    "count": 4
+  }
+}

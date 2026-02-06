@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/deepslate_brickstrapped",
+    "up": "sculks_of_arda:block/deepslate_brickstrapped",
+    "north": "sculks_of_arda:block/deepslate_brickstrapped",
+    "east": "sculks_of_arda:block/deepslate_brickstrapped",
+    "south": "sculks_of_arda:block/deepslate_brickstrapped",
+    "west": "sculks_of_arda:block/deepslate_brickstrapped",
+    "particle": "sculks_of_arda:block/deepslate_brickstrapped"
+  },
+  "render_type": "solid"
+}

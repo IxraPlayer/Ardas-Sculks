@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "sculks_of_arda:block/radioactive_balsa_door",
+    "bottom": "sculks_of_arda:block/radioactive_balsa_door",
+    "top": "sculks_of_arda:block/radioactive_balsa_door_up"
+  },
+  "render_type": "translucent"
+}

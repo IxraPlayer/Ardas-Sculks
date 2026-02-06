@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:mycelium_sculk_grass",
+    "minecraft:sculk",
+    "sculks_of_arda:sculk_grass_block",
+    "sculks_of_arda:soul_sculk_grass",
+    "minecraft:deepslate"
+  ]
+}

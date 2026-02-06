@@ -1,0 +1,11 @@
+{
+  "parent": "sculks_of_arda:custom/sculkpath",
+  "textures": {
+    "all": "sculks_of_arda:block/sculk_path_side",
+    "particle": "sculks_of_arda:block/sculk_path_side",
+    "0": "sculks_of_arda:block/sculk_path_top",
+    "1": "sculks_of_arda:block/sculk_path_side",
+    "2": "sculks_of_arda:block/sculka"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "sculks_of_arda:custom/carvedverticalcolumndeepslatestone",
+  "textures": {
+    "all": "sculks_of_arda:block/carvedverticalcolumndeepslatestoneustalt",
+    "particle": "sculks_of_arda:block/carvedverticalcolumndeepslatestoneustalt",
+    "1": "sculks_of_arda:block/carvedverticalcolumndeepslatestone4",
+    "2": "sculks_of_arda:block/carvedverticalcolumndeepslatestone1",
+    "3": "sculks_of_arda:block/carvedverticalcolumndeepslatestone2",
+    "4": "sculks_of_arda:block/carvedverticalcolumndeepslatestone3",
+    "alt": "sculks_of_arda:block/carvedverticalcolumndeepslatestoneustalt"
+  },
+  "render_type": "solid"
+}

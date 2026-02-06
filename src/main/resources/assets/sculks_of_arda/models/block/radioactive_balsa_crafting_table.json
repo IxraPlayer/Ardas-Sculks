@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_top",
+    "up": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_top",
+    "north": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_side",
+    "east": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_front",
+    "south": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_side",
+    "west": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_front",
+    "particle": "sculks_of_arda:block/radioactive_balsa_planks_crafting_table_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_flower",
+    "sculks_of_arda:soul_flower",
+    "sculks_of_arda:ancient_flower",
+    "sculks_of_arda:ancient_creaking_flower",
+    "sculks_of_arda:wisterya_flower",
+    "sculks_of_arda:radioactive_bush",
+    "sculks_of_arda:tall_sculk_plant"
+  ]
+}

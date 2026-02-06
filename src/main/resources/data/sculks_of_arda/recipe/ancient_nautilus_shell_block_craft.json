@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:ancientnautilusshell"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:ancient_nautilus_shell_block",
+    "count": 1
+  }
+}

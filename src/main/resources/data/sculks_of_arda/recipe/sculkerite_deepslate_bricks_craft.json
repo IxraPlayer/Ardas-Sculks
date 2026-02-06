@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculkresinbrick"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculkerite_nugget"
+    },
+    "c": {
+      "item": "minecraft:deepslate_bricks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculkerite_deepslate_bricks",
+    "count": 2
+  }
+}

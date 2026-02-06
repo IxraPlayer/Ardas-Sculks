@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculk_crystal_bricks",
+    "bottom": "sculks_of_arda:block/sculk_crystal_bricks",
+    "top": "sculks_of_arda:block/sculk_crystal_bricks",
+    "side": "sculks_of_arda:block/sculk_crystal_bricks"
+  },
+  "render_type": "solid"
+}

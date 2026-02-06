@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sculks_of_arda:block/powered_sculk_air_not_tick_limit"
+    }
+  }
+}

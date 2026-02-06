@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:ancientworldbiomes",
+  "features": "sculks_of_arda:sculk_world_feature_1",
+  "step": "surface_structures"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "sculks_of_arda:custom/sculkixraarmgold2",
+  "textures": {
+    "0": "sculks_of_arda:block/sculk_ixra_golden",
+    "particle": "sculks_of_arda:item/sculkarms2"
+  }
+}

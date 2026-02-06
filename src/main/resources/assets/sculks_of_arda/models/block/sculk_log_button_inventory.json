@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculk_planks",
+    "texture": "sculks_of_arda:block/sculk_planks"
+  },
+  "render_type": "solid"
+}

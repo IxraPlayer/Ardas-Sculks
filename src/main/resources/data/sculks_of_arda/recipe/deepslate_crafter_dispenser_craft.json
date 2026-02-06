@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "b": {
+      "item": "sculks_of_arda:advanced_furnace"
+    },
+    "c": {
+      "item": "minecraft:chiseled_deepslate"
+    },
+    "d": {
+      "item": "sculks_of_arda:sculk_planks_crafting_table"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:deepslate_dispenser",
+    "count": 1
+  }
+}

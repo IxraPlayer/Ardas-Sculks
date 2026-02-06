@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="sculks_of_arda"
+version="1.3.2"
+displayName="Arda's Sculks"
+displayURL="https://mcreator.net"
+credits="Arda's Sculk mod is a mod that allows you to make stronger tools and items by improving the sculks in the game.  "
+authors="Arda"
+description="Arda's Sculk mod is a mod that allows you to make stronger tools and items by improving the sculks in the game.  "
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.sculks_of_arda]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+[[dependencies.sculks_of_arda]]
+    modId="curios_api"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sculks_of_arda]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

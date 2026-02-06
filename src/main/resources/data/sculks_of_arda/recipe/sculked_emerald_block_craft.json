@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculked_emerald"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculked_emerald_block",
+    "count": 1
+  }
+}

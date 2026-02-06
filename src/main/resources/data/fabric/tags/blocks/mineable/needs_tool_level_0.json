@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "ardas_vanilla:acacia_planks_bricks_decoration",
+    "ardas_vanilla:oak_planks_bricks_decoration",
+    "ardas_vanilla:birch_planks_bricks_decoration",
+    "ardas_vanilla:cherry_planks_bricks_decoration",
+    "ardas_vanilla:dark_oak_planks_bricks_decoration",
+    "ardas_vanilla:jungle_planks_bricks_decoration",
+    "ardas_vanilla:mangrove_planks_bricks_decoration",
+    "ardas_vanilla:spruce_planks_bricks_decoration"
+  ]
+}

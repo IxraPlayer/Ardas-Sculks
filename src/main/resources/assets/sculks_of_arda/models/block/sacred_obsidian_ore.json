@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sacredobsidianore",
+    "up": "sculks_of_arda:block/sacredobsidianore",
+    "north": "sculks_of_arda:block/sacredobsidianore",
+    "east": "sculks_of_arda:block/sacredobsidianore",
+    "south": "sculks_of_arda:block/sacredobsidianore",
+    "west": "sculks_of_arda:block/sacredobsidianore",
+    "particle": "sculks_of_arda:block/sacredobsidianore"
+  },
+  "render_type": "solid"
+}

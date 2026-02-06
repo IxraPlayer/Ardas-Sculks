@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:ancient_granite_stairs",
+    "sculks_of_arda:ancient_stone_stairs",
+    "sculks_of_arda:cut_sculk_block_stairs",
+    "sculks_of_arda:sculk_bricks_stairs",
+    "sculks_of_arda:sculk_brick_carved_stairs",
+    "sculks_of_arda:sculk_brick_stairs",
+    "sculks_of_arda:crying_sacred_obsidian_stone_stairs",
+    "sculks_of_arda:sacred_obsidian_stone_stairs",
+    "sculks_of_arda:deep_granulite_stone_stairs",
+    "sculks_of_arda:wisterya_rock_stairs",
+    "sculks_of_arda:sculk_resin_block_stairs",
+    "sculks_of_arda:sculk_resin_bricks_stairs",
+    "sculks_of_arda:sculk_bone_block_stairs",
+    "sculks_of_arda:sculk_bone_bricks_stairs",
+    "sculks_of_arda:sculk_bone_tiles_stairs",
+    "sculks_of_arda:sculkerite_deepslate_bricks_stairs",
+    "sculks_of_arda:sculk_crystal_tiles_stairs",
+    "sculks_of_arda:sculk_crystal_bricks_stairs",
+    "sculks_of_arda:radioactive_balsa_stairs",
+    "sculks_of_arda:deep_granulite_stone_bricks_stairs",
+    "sculks_of_arda:wisterya_stairs",
+    "sculks_of_arda:black_birch_stairs",
+    "sculks_of_arda:sculk_log_stairs"
+  ]
+}

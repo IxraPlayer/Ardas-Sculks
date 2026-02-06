@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_log_log",
+    "sculks_of_arda:black_birch_log",
+    "sculks_of_arda:wisterya_log",
+    "sculks_of_arda:wisterya_wood",
+    "sculks_of_arda:radioactive_balsa_log"
+  ]
+}

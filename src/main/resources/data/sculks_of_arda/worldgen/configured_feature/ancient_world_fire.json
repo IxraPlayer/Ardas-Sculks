@@ -1,0 +1,50 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 96,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "minecraft:soul_fire"
+            }
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "sculks_of_arda:sculk_grass_block",
+                  "sculks_of_arda:soul_sculk_grass",
+                  "sculks_of_arda:ancient_sand",
+                  "sculks_of_arda:sculk_moss_block",
+                  "sculks_of_arda:wisterya_sculk_grass",
+                  "sculks_of_arda:deep_granulite_stone",
+                  "sculks_of_arda:radioactive_sculk_grass_block"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

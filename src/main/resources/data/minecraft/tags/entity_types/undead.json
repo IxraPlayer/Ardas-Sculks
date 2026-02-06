@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_boss_1",
+    "sculks_of_arda:sculk_fox",
+    "sculks_of_arda:sculk_enderman",
+    "sculks_of_arda:sculk_creeper",
+    "sculks_of_arda:sculk_skeleton"
+  ]
+}

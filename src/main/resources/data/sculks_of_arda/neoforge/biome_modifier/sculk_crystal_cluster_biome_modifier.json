@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "deep_dark",
+    "sculks_of_arda:sculk_woods",
+    "sculks_of_arda:sculk_plains"
+  ],
+  "features": "sculks_of_arda:sculk_crystal_cluster",
+  "step": "vegetal_decoration"
+}

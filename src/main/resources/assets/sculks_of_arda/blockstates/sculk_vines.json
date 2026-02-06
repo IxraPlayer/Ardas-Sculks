@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sculks_of_arda:block/sculk_vines"
+    },
+    "half=lower": {
+      "model": "sculks_of_arda:block/sculk_vines_bottom"
+    }
+  }
+}

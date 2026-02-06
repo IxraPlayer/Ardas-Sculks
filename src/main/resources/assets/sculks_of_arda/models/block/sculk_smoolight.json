@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculklight_shroomlight",
+    "up": "sculks_of_arda:block/sculklight_shroomlight",
+    "north": "sculks_of_arda:block/sculklight_shroomlight",
+    "east": "sculks_of_arda:block/sculklight_shroomlight",
+    "south": "sculks_of_arda:block/sculklight_shroomlight",
+    "west": "sculks_of_arda:block/sculklight_shroomlight",
+    "particle": "sculks_of_arda:block/sculklight_shroomlight"
+  },
+  "render_type": "solid"
+}

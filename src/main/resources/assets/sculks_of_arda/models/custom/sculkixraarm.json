@@ -1,0 +1,365 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "Right Arm",
+      "from": [
+        -1,
+        4,
+        5.8
+      ],
+      "to": [
+        4.3,
+        24,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            9.25,
+            11,
+            10.5,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8,
+            11,
+            9.25,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            11.75,
+            11,
+            13,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            10.5,
+            11,
+            11.75,
+            16
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            10.5,
+            11,
+            9.25,
+            9.75
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11.75,
+            9.75,
+            10.5,
+            11
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "from": [
+        -1,
+        24,
+        7
+      ],
+      "to": [
+        4,
+        28,
+        7
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          3,
+          22,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            13.5,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            16,
+            12.25,
+            16,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            13,
+            13.5,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            16,
+            12.25,
+            16,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            16,
+            12.75,
+            14.75,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            16,
+            12.75,
+            14.75,
+            12.75
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "from": [
+        -0.4,
+        24,
+        9.3
+      ],
+      "to": [
+        4.6,
+        28,
+        9.3
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          3,
+          22,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            13,
+            14,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            16,
+            12.25,
+            16,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            13,
+            14,
+            16,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            16,
+            12.25,
+            16,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            16,
+            12.75,
+            14.75,
+            12.75
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            16,
+            12.75,
+            14.75,
+            12.75
+          ],
+          "texture": "#missing"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -6,
+        -1.5,
+        -3
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        90,
+        0,
+        0
+      ],
+      "translation": [
+        -6,
+        -1.5,
+        -3
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        78,
+        0,
+        0
+      ],
+      "translation": [
+        12.75,
+        0,
+        -6
+      ],
+      "scale": [
+        1.74,
+        1.22,
+        1.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        78,
+        0,
+        0
+      ],
+      "translation": [
+        -9,
+        0,
+        -6
+      ],
+      "scale": [
+        1.74,
+        1.22,
+        1.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        5.75,
+        5.25,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        13,
+        42,
+        27
+      ],
+      "translation": [
+        5,
+        -0.75,
+        0
+      ],
+      "scale": [
+        0.83,
+        0.77,
+        1
+      ]
+    },
+    "head": {
+      "translation": [
+        3.75,
+        -25.75,
+        0
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        -44.25
+      ],
+      "translation": [
+        0.5,
+        -6.5,
+        0
+      ],
+      "scale": [
+        0.83461,
+        0.74,
+        1.56
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "RightArm",
+      "origin": [
+        13,
+        22,
+        8
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

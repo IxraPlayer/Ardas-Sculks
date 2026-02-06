@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor"
+    },
+    "facing=east,blockstate=0": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor_block_state_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor_block_state_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor_block_state_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "sculks_of_arda:block/soul_sculk_sensor_block_state_blockstate_0",
+      "y": 270
+    }
+  }
+}

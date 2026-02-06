@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/blackbirch_planks",
+    "particle": "sculks_of_arda:block/blackbirch_planks"
+  },
+  "render_type": "solid"
+}

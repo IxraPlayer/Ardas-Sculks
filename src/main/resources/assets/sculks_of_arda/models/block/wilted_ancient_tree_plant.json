@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sculks_of_arda:block/wilted_ancient_tree_plant",
+    "particle": "sculks_of_arda:block/wilted_ancient_tree_plant"
+  },
+  "render_type": "cutout"
+}

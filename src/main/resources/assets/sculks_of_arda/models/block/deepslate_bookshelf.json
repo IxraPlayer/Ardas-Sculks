@@ -1,0 +1,12 @@
+{
+  "parent": "sculks_of_arda:custom/deepslatebookshelf",
+  "textures": {
+    "all": "minecraft:block/deepslate_bricks",
+    "particle": "minecraft:block/deepslate_bricks",
+    "0": "sculks_of_arda:block/deepslate_bookshelf_dis",
+    "1": "sculks_of_arda:block/deepslate_bookshelf",
+    "2": "sculks_of_arda:block/deepslate_bookshelf_kitap",
+    "3": "minecraft:block/deepslate_bricks"
+  },
+  "render_type": "cutout_mipped"
+}

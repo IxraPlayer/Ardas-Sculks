@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/chiseled_deepgranulite_bricks",
+    "particle": "sculks_of_arda:block/chiseled_deepgranulite_bricks"
+  },
+  "render_type": "cutout_mipped"
+}

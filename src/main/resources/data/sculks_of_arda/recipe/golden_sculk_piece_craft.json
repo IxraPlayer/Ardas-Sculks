@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_block"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculk_piece"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:golden_sculk_piece",
+    "count": 1
+  }
+}

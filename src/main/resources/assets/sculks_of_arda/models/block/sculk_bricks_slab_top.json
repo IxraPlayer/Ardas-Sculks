@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculk_bricks3",
+    "bottom": "sculks_of_arda:block/sculk_bricks3",
+    "top": "sculks_of_arda:block/sculk_brick2",
+    "side": "sculks_of_arda:block/sculk_brick2"
+  },
+  "render_type": "solid"
+}

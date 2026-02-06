@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "sculks_of_arda:sculk_deserts",
+  "features": "sculks_of_arda:wilted_ancient_tree_plant",
+  "step": "vegetal_decoration"
+}

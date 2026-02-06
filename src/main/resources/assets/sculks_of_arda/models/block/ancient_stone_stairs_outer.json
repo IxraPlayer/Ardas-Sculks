@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/ancient_cooblestone3",
+    "bottom": "sculks_of_arda:block/ancient_cooblestone3",
+    "top": "sculks_of_arda:block/ancient_cooblestone3",
+    "side": "sculks_of_arda:block/ancient_cooblestone3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk"
+    },
+    "b": {
+      "item": "minecraft:sculk_vein"
+    },
+    "c": {
+      "item": "minecraft:shroomlight"
+    },
+    "d": {
+      "item": "minecraft:sculk_catalyst"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculk_smoolight",
+    "count": 2
+  }
+}

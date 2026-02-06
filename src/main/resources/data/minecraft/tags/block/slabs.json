@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:ancient_granite_slab",
+    "sculks_of_arda:ancient_stone_slab",
+    "sculks_of_arda:cut_sculk_block_slab",
+    "sculks_of_arda:sculk_bricks_slab",
+    "sculks_of_arda:sculk_brick_carved_slab",
+    "sculks_of_arda:sculk_brick_slab",
+    "sculks_of_arda:crying_sacred_obsidian_stone_slab",
+    "sculks_of_arda:sacred_obsidian_stone_slab",
+    "sculks_of_arda:deep_granulite_stone_slab",
+    "sculks_of_arda:sculk_resin_block_slab",
+    "sculks_of_arda:sculk_resin_bricks_slab",
+    "sculks_of_arda:sculk_bone_block_slab",
+    "sculks_of_arda:sculk_bone_bricks_slab",
+    "sculks_of_arda:sculk_bone_tiles_slab",
+    "sculks_of_arda:sculkerite_deepslate_bricks_slab",
+    "sculks_of_arda:sculk_crystal_tiles_slab",
+    "sculks_of_arda:sculk_crystal_bricks_slab",
+    "sculks_of_arda:radioactive_balsa_slab",
+    "sculks_of_arda:deep_granulite_bricks_slab",
+    "sculks_of_arda:wisterya_rock_slab",
+    "sculks_of_arda:wisterya_slab",
+    "sculks_of_arda:black_birch_slab",
+    "sculks_of_arda:sculk_log_slab"
+  ]
+}

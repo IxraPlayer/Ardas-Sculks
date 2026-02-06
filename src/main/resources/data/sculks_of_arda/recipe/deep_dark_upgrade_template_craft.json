@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "dbd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculk_ingot"
+    },
+    "c": {
+      "item": "sculks_of_arda:deep_dark_upgrade_template"
+    },
+    "d": {
+      "item": "sculks_of_arda:sculk_crystal"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:deep_dark_upgrade_template",
+    "count": 2
+  }
+}

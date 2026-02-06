@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:stripped_radioactive_balsa_log"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:stripped_radioactive_balsa_wood",
+    "count": 3
+  }
+}

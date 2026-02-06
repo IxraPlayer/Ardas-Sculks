@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculks_of_arda:shadow_hunter_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 96,
+    "separation": 12,
+    "salt": 1608499495
+  }
+}

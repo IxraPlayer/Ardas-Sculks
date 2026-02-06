@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence_gate",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:black_birch_stick"
+    },
+    "b": {
+      "item": "sculks_of_arda:black_birch_planks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:black_birch_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculk_resin_clump"
+    },
+    "b": {
+      "item": "sculks_of_arda:sacred_obsidian_shard"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:crying_sacred_obsidian_stone",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculk_quartz_ore",
+    "up": "sculks_of_arda:block/sculk_quartz_ore",
+    "north": "sculks_of_arda:block/sculk_quartz_ore",
+    "east": "sculks_of_arda:block/sculk_quartz_ore",
+    "south": "sculks_of_arda:block/sculk_quartz_ore",
+    "west": "sculks_of_arda:block/sculk_quartz_ore",
+    "particle": "sculks_of_arda:block/sculk_quartz_ore"
+  },
+  "render_type": "solid"
+}

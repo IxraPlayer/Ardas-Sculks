@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem_top",
+    "up": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem_top",
+    "north": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem",
+    "east": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem",
+    "south": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem",
+    "west": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem",
+    "particle": "sculks_of_arda:block/stripped_radioactive_balsa_log_stem_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "up": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "north": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "east": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "south": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "west": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "particle": "sculks_of_arda:block/cryingsacredobsidianstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_arms",
+    "sculks_of_arda:golden_sculk_arms",
+    "sculks_of_arda:sculkerite_axe",
+    "sculks_of_arda:sculkerite_sword",
+    "sculks_of_arda:sculk_planks_sword",
+    "sculks_of_arda:blackbirchplankssword",
+    "sculks_of_arda:wisterya_wooden_sword",
+    "sculks_of_arda:warden_sword",
+    "sculks_of_arda:radioactive_balsa_wooden_sword",
+    "sculks_of_arda:sculkerite_long_sword",
+    "sculks_of_arda:sculk_planks_axe",
+    "sculks_of_arda:blackbirchplanksaxe",
+    "sculks_of_arda:sculkerite_paxel",
+    "sculks_of_arda:wisterya_wooden_axe",
+    "sculks_of_arda:radioactive_balsa_wooden_axe",
+    "sculks_of_arda:radioactive_sculk_arm",
+    "sculks_of_arda:netherite_sculk_arm",
+    "sculks_of_arda:sculkerite_sculk_arm"
+  ]
+}

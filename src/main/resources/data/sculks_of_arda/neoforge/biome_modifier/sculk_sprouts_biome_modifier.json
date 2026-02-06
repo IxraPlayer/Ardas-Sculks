@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "deep_dark",
+    "sculks_of_arda:sculk_woods",
+    "sculks_of_arda:sculk_plains",
+    "sculks_of_arda:mushroom_sculk_forest"
+  ],
+  "features": "sculks_of_arda:sculk_sprouts",
+  "step": "vegetal_decoration"
+}

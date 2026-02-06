@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculks_of_arda:wisterya_rock_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 3,
+    "separation": 0,
+    "salt": 279274625
+  }
+}

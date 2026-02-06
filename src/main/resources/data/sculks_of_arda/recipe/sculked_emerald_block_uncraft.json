@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:sculked_emerald_block"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:sculked_emerald",
+    "count": 9
+  }
+}

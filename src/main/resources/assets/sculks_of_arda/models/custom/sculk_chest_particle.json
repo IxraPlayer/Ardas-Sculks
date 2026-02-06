@@ -1,0 +1,6 @@
+{
+  "parent": "sculks_of_arda:displaysettings/sculkchest_-_converted",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculkgrass"
+  }
+}

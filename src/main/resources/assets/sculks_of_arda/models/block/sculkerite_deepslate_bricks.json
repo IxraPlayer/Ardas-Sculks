@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "up": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "north": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "east": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "south": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "west": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "particle": "sculks_of_arda:block/sculkerite_deepslate_bircks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:block/wisterya_sculk_grass"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:block/wisterya_sculk_grass",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:block/wisterya_sculk_grass",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:block/wisterya_sculk_grass",
+      "y": 270
+    }
+  }
+}

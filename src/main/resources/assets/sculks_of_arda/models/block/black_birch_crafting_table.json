@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/dark_birch_crafting_table_top",
+    "up": "sculks_of_arda:block/dark_birch_crafting_table_top",
+    "north": "sculks_of_arda:block/dark_birch_crafting_table_front",
+    "east": "sculks_of_arda:block/dark_birch_crafting_table_side",
+    "south": "sculks_of_arda:block/dark_birch_crafting_table_front",
+    "west": "sculks_of_arda:block/dark_birch_crafting_table_side",
+    "particle": "sculks_of_arda:block/dark_birch_crafting_table_top"
+  },
+  "render_type": "solid"
+}

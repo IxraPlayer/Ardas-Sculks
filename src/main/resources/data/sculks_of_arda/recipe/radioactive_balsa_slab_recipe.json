@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:radioactive_balsa_planks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:radioactive_balsa_slab",
+    "count": 6
+  }
+}

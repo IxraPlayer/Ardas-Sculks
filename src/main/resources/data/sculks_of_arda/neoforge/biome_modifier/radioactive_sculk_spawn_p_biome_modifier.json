@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "sculks_of_arda:radioactive_balsa_forest",
+  "features": "sculks_of_arda:radioactive_sculk_spawn_p",
+  "step": "vegetal_decoration"
+}

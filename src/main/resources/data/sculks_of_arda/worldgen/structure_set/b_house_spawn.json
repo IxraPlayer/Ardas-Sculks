@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculks_of_arda:b_house_spawn",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 24,
+    "separation": 5,
+    "salt": 859007733
+  }
+}

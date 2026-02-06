@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "sculks_of_arda:block/radioactive_balsa_planks",
+    "bottom": "sculks_of_arda:block/radioactive_balsa_planks",
+    "top": "sculks_of_arda:block/radioactive_balsa_planks",
+    "side": "sculks_of_arda:block/radioactive_balsa_planks"
+  },
+  "render_type": "solid"
+}

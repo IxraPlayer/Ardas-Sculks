@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculkerite_paxel",
+    "sculks_of_arda:sculkerite_hammer",
+    "sculks_of_arda:sculkerite_pickaxe",
+    "sculks_of_arda:sculkerite_axe",
+    "sculks_of_arda:sculkerite_shovel",
+    "sculks_of_arda:sculkerite_hoe",
+    "sculks_of_arda:sculk_planks_pickaxe",
+    "sculks_of_arda:sculk_planks_axe",
+    "sculks_of_arda:sculk_planks_shovel",
+    "sculks_of_arda:sculk_planks_hoe",
+    "sculks_of_arda:blackbirchplanksaxe",
+    "sculks_of_arda:blackbirchplanksshovel",
+    "sculks_of_arda:blackbirchplankshoe",
+    "sculks_of_arda:blackbirchplankspickaxe",
+    "sculks_of_arda:wisterya_wooden_pickaxe",
+    "sculks_of_arda:wisterya_wooden_axe",
+    "sculks_of_arda:wisterya_wooden_shovel",
+    "sculks_of_arda:wisterya_wooden_hoe",
+    "sculks_of_arda:radioactive_balsa_wooden_pickaxe",
+    "sculks_of_arda:radioactive_balsa_wooden_axe",
+    "sculks_of_arda:radioactive_balsa_wooden_shovel",
+    "sculks_of_arda:radioactive_balsa_wooden_hoe"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "sculks_of_arda:sculkerite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "sculks_of_arda:sculk_ingot"
+  },
+  "result": {
+    "id": "sculks_of_arda:sculkerite_sword"
+  }
+}

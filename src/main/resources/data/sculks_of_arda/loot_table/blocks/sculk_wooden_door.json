@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "sculks_of_arda:blocks/sculk_wooden_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sculks_of_arda:sculk_wooden_door",
+          "conditions": [
+            {
+              "block": "sculks_of_arda:sculk_wooden_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sculks_of_arda:block/black_birch_slab"
+    },
+    "type=top": {
+      "model": "sculks_of_arda:block/black_birch_slab_top"
+    },
+    "type=double": {
+      "model": "sculks_of_arda:block/black_birch_slab_full"
+    }
+  }
+}

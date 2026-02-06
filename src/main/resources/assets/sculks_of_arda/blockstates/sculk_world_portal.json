@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "sculks_of_arda:block/sculk_world_portal_ew"
+    },
+    "axis=x": {
+      "model": "sculks_of_arda:block/sculk_world_portal_ns"
+    }
+  }
+}

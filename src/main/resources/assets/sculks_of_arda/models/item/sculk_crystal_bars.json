@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sculks_of_arda:item/sculk_crystal_bars"
+  },
+  "render_type": "translucent"
+}

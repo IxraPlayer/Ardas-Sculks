@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculklatern",
+    "up": "sculks_of_arda:block/sculklatern",
+    "north": "sculks_of_arda:block/sculklatern",
+    "east": "sculks_of_arda:block/sculklatern",
+    "south": "sculks_of_arda:block/sculklatern",
+    "west": "sculks_of_arda:block/sculklatern",
+    "particle": "sculks_of_arda:block/sculklatern"
+  },
+  "render_type": "solid"
+}

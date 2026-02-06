@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": {
+    "type": "neoforge:any"
+  },
+  "features": "sculks_of_arda:ancient_granite_wall",
+  "step": "underground_ores"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "sculks_of_arda:block/wisterya_trapdoor",
+    "particle": "sculks_of_arda:block/wisterya_trapdoor"
+  },
+  "render_type": "translucent"
+}

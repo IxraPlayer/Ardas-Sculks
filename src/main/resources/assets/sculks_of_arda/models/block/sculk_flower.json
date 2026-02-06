@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sculks_of_arda:block/sculkflower",
+    "particle": "sculks_of_arda:block/sculkflower"
+  },
+  "render_type": "cutout"
+}

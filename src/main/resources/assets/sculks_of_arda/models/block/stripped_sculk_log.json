@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/stripped_sculklogtop",
+    "up": "sculks_of_arda:block/stripped_sculklogtop",
+    "north": "sculks_of_arda:block/stripped_sculklogside",
+    "east": "sculks_of_arda:block/stripped_sculklogside",
+    "south": "sculks_of_arda:block/stripped_sculklogside",
+    "west": "sculks_of_arda:block/stripped_sculklogside",
+    "particle": "sculks_of_arda:block/stripped_sculklogtop"
+  },
+  "render_type": "solid"
+}

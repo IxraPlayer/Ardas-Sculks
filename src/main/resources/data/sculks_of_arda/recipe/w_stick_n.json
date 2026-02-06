@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:wisterya_stick"
+    }
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 2
+  }
+}

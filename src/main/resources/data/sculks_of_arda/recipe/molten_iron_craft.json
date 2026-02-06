@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 4,
+  "cookingtime": 1800,
+  "ingredient": {
+    "item": "sculks_of_arda:bucket_filled_with_raw_iron"
+  },
+  "result": {
+    "id": "sculks_of_arda:molten_iron_bucket"
+  }
+}

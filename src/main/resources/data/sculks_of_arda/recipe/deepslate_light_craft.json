@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "b": {
+      "item": "minecraft:copper_bulb"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:deepslate_bulb",
+    "count": 1
+  }
+}

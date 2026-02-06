@@ -1,0 +1,12 @@
+{
+  "parent": "sculks_of_arda:custom/sculkgrassflowers",
+  "textures": {
+    "all": "sculks_of_arda:block/sculka",
+    "particle": "sculks_of_arda:block/sculka",
+    "0": "sculks_of_arda:block/sculkgrass",
+    "1": "sculks_of_arda:block/sculka",
+    "2": "sculks_of_arda:block/sculktopgrass",
+    "3": "sculks_of_arda:block/floweringsculkgrassblock"
+  },
+  "render_type": "solid"
+}

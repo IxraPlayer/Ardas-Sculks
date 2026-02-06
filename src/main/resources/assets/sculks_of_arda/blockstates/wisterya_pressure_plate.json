@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "sculks_of_arda:block/wisterya_pressure_plate"
+    },
+    "powered=true": {
+      "model": "sculks_of_arda:block/wisterya_pressure_plate_down"
+    }
+  }
+}

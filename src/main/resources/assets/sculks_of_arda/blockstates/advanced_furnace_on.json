@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:block/advanced_furnace_on"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:block/advanced_furnace_on",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:block/advanced_furnace_on",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:block/advanced_furnace_on",
+      "y": 270
+    }
+  }
+}

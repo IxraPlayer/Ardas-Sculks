@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:deep_granulite_stone_bricks"
+    },
+    "b": {
+      "item": "sculks_of_arda:polished_deep_granulite"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:chiseled_deep_granulite_bricks",
+    "count": 6
+  }
+}

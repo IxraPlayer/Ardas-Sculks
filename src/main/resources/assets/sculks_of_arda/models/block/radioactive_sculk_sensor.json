@@ -1,0 +1,12 @@
+{
+  "parent": "sculks_of_arda:custom/radioactive_culksensor3",
+  "textures": {
+    "all": "sculks_of_arda:block/invisiblock",
+    "particle": "sculks_of_arda:block/radioactive_sculk_sensor_top",
+    "1": "sculks_of_arda:block/radioactive_sculk_grass_block",
+    "2": "sculks_of_arda:block/radioactive_sculk_sensor_top",
+    "3": "sculks_of_arda:block/radioactive_sculk",
+    "4": "sculks_of_arda:block/sculk_sensor_tendril"
+  },
+  "render_type": "cutout_mipped"
+}

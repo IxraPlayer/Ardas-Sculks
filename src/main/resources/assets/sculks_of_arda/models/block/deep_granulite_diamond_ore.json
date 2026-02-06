@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/deepgranulite_diamond_ore",
+    "particle": "sculks_of_arda:block/deepgranulite_diamond_ore"
+  },
+  "render_type": "cutout_mipped"
+}

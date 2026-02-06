@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "sculks_of_arda:deep_dark_upgrade_template"
+  },
+  "base": {
+    "item": "sculks_of_arda:sculkerite_sword"
+  },
+  "addition": {
+    "item": "minecraft:sculk_sensor"
+  },
+  "result": {
+    "id": "sculks_of_arda:sculkerite_long_sword"
+  }
+}

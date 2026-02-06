@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sculks_of_arda:block/withered_ancient_shrub"
+  }
+}

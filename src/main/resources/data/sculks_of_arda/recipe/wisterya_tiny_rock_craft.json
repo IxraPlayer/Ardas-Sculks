@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:wisterya_rock"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:wisterya_tiny_rock",
+    "count": 4
+  }
+}

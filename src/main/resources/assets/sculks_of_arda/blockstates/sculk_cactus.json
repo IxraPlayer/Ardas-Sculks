@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:block/sculk_cactus"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:block/sculk_cactus",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:block/sculk_cactus",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:block/sculk_cactus",
+      "y": 270
+    }
+  }
+}

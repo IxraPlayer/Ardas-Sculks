@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculk_bone_tiles",
+    "up": "sculks_of_arda:block/sculk_bone_tiles",
+    "north": "sculks_of_arda:block/sculk_bone_tiles",
+    "east": "sculks_of_arda:block/sculk_bone_tiles",
+    "south": "sculks_of_arda:block/sculk_bone_tiles",
+    "west": "sculks_of_arda:block/sculk_bone_tiles",
+    "particle": "sculks_of_arda:block/sculk_bone_tiles"
+  },
+  "render_type": "solid"
+}
