@@ -1,8 +1,9 @@
 # Arda's Sculks Mod
 ![Minecraft Versions](https://img.shields.io/badge/For%20MC-1.21%20%7C%201.20.1-orange),
-https://img.shields.io/discord/DWdzGSTk?label=chat&color=7289da,
-https://img.shields.io/modrinth/dt/ardas_sculks,
-
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1167439?style=for-the-badge&color=orange&label=Downloads&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/ardas-sculks?style=for-the-badge&color=242629&label=Modrinth%20Downloads&logo=modrinth&logoColor=5af78e)](https://modrinth.com/mod/ardas-sculks)
+[![Modrinth Total Downloads](https://img.shields.io/modrinth/dt/IxraPlayer?style=for-the-badge&color=00AF5C&label=Total%20Modrinth%20Downloads&logo=modrinth)](https://modrinth.com/user/IxraPlayer)
+[![GitHub followers](https://img.shields.io/github/followers/IxraPlayer?style=for-the-badge&color=white&label=Followers&logo=github)](https://github.com/IxraPlayer)
 Ardas Sculks (1.21.1+) - Source Code & Assets
 
 **Arda's Sculks** allows you to craft more powerful tools and items by enhancing the sculk mechanics in the game. Explore new dimensions, fight unique bosses, and discover the secrets of the Ancient World.
