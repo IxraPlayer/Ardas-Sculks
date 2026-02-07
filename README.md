@@ -14,7 +14,7 @@
 
 ## About
 
-**Arda's Sculks** is an extensive Minecraft modification that revolutionizes the Sculk dimension, introducing powerful tools, formidable bosses, unique biomes, and enhanced gameplay mechanics centered around the mysterious sculk ecosystem.
+**Arda's Sculks** is an extensive Minecraft modification that revolutionizes the Sculk dimension, introducing powerful tools, formidable bosses, unique biomes, and enhanced gameplay mechanics centered around the mysterious sculk ecosystem!
 
 ### Key Features
 
