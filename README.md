@@ -1,5 +1,7 @@
 <div align="center">
-
+  
+<img width="400" height="400" alt="ardasculkmodicon" src="https://github.com/user-attachments/assets/dea195dd-11b5-4c44-9a63-f0b26f87e024" />
+  
 <img width="850" height="108" alt="image" src="https://github.com/user-attachments/assets/fb2dfcc3-d2cb-4d50-9e49-a71acf2ca0a8" />
 
 ![Version](https://img.shields.io/badge/Version-1.4.3.4-0066cc?style=for-the-badge)
