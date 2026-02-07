@@ -1,0 +1,16 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Selam! Arda's Sculks projesine ilk bildirimini yaptığın için teşekkürler. En kısa sürede inceleyeceğim! Bu sırada Wiki sayfamıza göz atmayı unutma. 👾"
+        pr-message: "Harika! Projeye katkıda bulunmak için ilk çekme isteğini (PR) gönderdin. CONTRIBUTING.md kurallarına (özellikle MCreator şartına) uyduysan inceleyip geri döneceğim. Teşekkürler! 🚀"
