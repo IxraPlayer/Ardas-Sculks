@@ -49,6 +49,8 @@
 **[Items & Tools](04-Items-and-Tools.md)** - Weapons, tools, materials, and consumables
 **[Armor](05-Armor.md)** - Armor sets with stats and abilities
 
+(The pages linked from this point onwards on the wiki are not ready.)
+
 ### Entities & Combat
 **[Mobs](06-Mobs.md)** - Hostile and passive creatures
 **[Bosses](07-Bosses.md)** - Boss encounters, mechanics, and rewards
