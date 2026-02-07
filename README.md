@@ -1,114 +1,182 @@
 <div align="center">
 
-<img width="850" height="108" alt="Arda's Sculks Banner" src="https://github.com/user-attachments/assets/edce22b4-6f6f-4aad-854b-862a3a5d4815" />
+<img width="850" height="108" alt="image" src="https://github.com/user-attachments/assets/fb2dfcc3-d2cb-4d50-9e49-a71acf2ca0a8" />
 
-# Arda's Sculks: The Ancient World
+![Version](https://img.shields.io/badge/Version-1.4.3.4-0066cc?style=for-the-badge)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-0099ff?style=for-the-badge)
+![NeoForge](https://img.shields.io/badge/NeoForge-21.1.65+-0066ff?style=for-the-badge)
 
-![Minecraft Versions](https://img.shields.io/badge/For%20MC-1.21%20%7C%201.20.1-orange)
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1167439?style=for-the-badge&color=orange&label=Downloads&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/ardas-sculks?style=for-the-badge&color=242629&label=Modrinth%20Downloads&logo=modrinth&logoColor=5af78e)](https://modrinth.com/mod/ardas-sculks)
-[![GitHub followers](https://img.shields.io/github/followers/IxraPlayer?style=for-the-badge&color=white&label=Followers&logo=github)](https://github.com/IxraPlayer)
-
-**Explore new dimensions, fight unique bosses, and discover the secrets of the Ancient World.**
-
-Arda's Sculks enhances the vanilla Sculk mechanics, allowing you to craft tools stronger than Netherite, explore dangerous new biomes, and face the deadliest creatures of the deep.
-
-</div>
+**Welcome to the official Arda's Sculks comprehensive documentation!**
 
 ---
 
-> **IMPORTANT: DEPENDENCY WARNING**
-> Versions **1.4 and above** require **[GECKOLIB](https://www.curseforge.com/minecraft/mc-mods/geckolib)**.
-> If GeckoLib is not installed, the game **will crash**!
+## About
+
+**Arda's Sculks** is an extensive Minecraft modification that revolutionizes the Sculk dimension, introducing powerful tools, formidable bosses, unique biomes, and enhanced gameplay mechanics centered around the mysterious sculk ecosystem.
+
+### Key Features
+
+**<ins>200+ New Items</ins>** - Tools, weapons, armor, and consumables
+**<ins>150+ Custom Blocks</ins>** - Building blocks, ores, decorative elements
+**<ins>12 Unique Entities</ins>** - Hostile mobs, bosses, and passive creatures
+**<ins>5 New Biomes</ins>** - Sculk-themed dimensions and landscapes
+**<ins>Boss Battles</ins>** - Epic encounters with powerful sculk guardians
+**<ins>Special Abilities</ins>** - Warden powers through armor sets
+**<ins>Custom Structures</ins>** - Ancient cities, sculk caverns, ruins
 
 ---
 
-## The Ancient World Dimension
+## Mod Information
 
-Prepare yourself before entering. The Ancient World is a place of mystery, darkness, and high-tier loot.
-
-* **How to Enter:** You must find the new structure containing the portal frame.
-* **The Igniter:** Craft the **Ancient World Portal Igniter** using rare materials collected from Ancient Cities.
-
----
-
-## Biomes
-
-Explore unique environments, each with its own flora, fauna, and dangers.
-
-| Biome | Description |
-| :--- | :--- |
-| **Soul Sculk Plains** | The grass here slows you down. Hidden soul sensors can practically freeze your movement. |
-| **Black Birch Forest** | Dense, dark trees. Home to the terrifying *Creaking*. |
-| **Wisterya Forest** | A beautiful, rocky biome featuring colorful trees. A rare safe haven? |
-| **Radioactive Balsa** | A toxic, mysterious forest. Tread carefully. |
-| **Sculk Deserts** | Arid lands with no cover. Look for ancient portals here to escape. |
-| **Sculk Plains** | Vast lands in the new dimension. |
+| Property | Value |
+|----------|-------|
+| **Mod Name** | Arda's Sculks |
+| **Mod ID** | `sculks_of_arda` |
+| **<ins>Current Version</ins>** | **1.4.3.4.2** |
+| **<ins>Minecraft Version</ins>** | **1.21.1** |
+| **<ins>Mod Loader</ins>** | **NeoForge 21.1.65+** |
+| **Dependencies** | GeckoLib (Required), JEI (Optional) |
+| **Author** | Arda (IxraPlayer) |
+| **License** | LGPL v2.1 |
 
 ---
 
-## Bosses & Mobs
+## Wiki Navigation
 
-### The Bosses
-| Boss | Description | Drops |
-| :--- | :--- | :--- |
-| **Sculk Golem** | Found in the boss arena. A heavy hitter. | **Sculk Crystal** (Essential for Sculkerite Multi-Tool) |
-| **Sculk Ghost** | A flying nightmare that hunts players relentlessly. | Rare loot |
+### Core Content
+**[Getting Started](02-Getting-Started.md)** - Installation and first steps
+**[Blocks](03-Blocks.md)** - All blocks with properties and recipes
+**[Items & Tools](04-Items-and-Tools.md)** - Weapons, tools, materials, and consumables
+**[Armor](05-Armor.md)** - Armor sets with stats and abilities
 
-### New Creatures
-The world is alive and hostile. Watch out for:
-* **Radioactive Warden:** A deadlier, more volatile version of the Warden.
-* **Sculk Creeper:** Explodes into darkness and slowness.
-* **Sculk Skeleton:** Arrows apply darkness and have high knockback.
-* **Agile Slime:** Extremely fast; splits upon death.
-* **Sculk Creaking & Shadow Hunter:** Lurking in the dark to ambush you.
-* **Friendly Mobs:** *Sculk Fox*, *Sculk Fish*, and the *Sculk Villager* (Merchant).
+### Entities & Combat
+**[Mobs](06-Mobs.md)** - Hostile and passive creatures
+**[Bosses](07-Bosses.md)** - Boss encounters, mechanics, and rewards
+**[Combat Guide](08-Combat-Guide.md)** - Strategies and tips
 
----
+### World & Exploration
+**[Biomes](09-Biomes.md)** - All biomes and their features
+**[Structures](10-Structures.md)** - Generated structures
+**[Dimensions](11-Dimensions.md)** - Sculk dimension details
 
-## Items & Equipment
+### Crafting & Progression
+**[Crafting Recipes](12-Crafting-Recipes.md)** - All recipes
+**[Smithing](13-Smithing.md)** - Upgrade templates and smithing
+**[Progression Guide](14-Progression.md)** - Recommended gameplay path
 
-### Sculkerite Tier
-Forget Netherite. **Sculkerite** is the new endgame.
-* **Sculk Arms:** Weapons crafted with Ancient City materials. Hits as hard as a Warden!
-* **Multi-Tool:** Crafted using the Sculk Crystal dropped by the Golem.
+### Features & Mechanics
+**[Warden Abilities](15-Warden-Abilities.md)** - Sonic Boom & Warden Feelings
+**[Sculk Mechanics](16-Sculk-Mechanics.md)** - Spreading, sensors, catalysts
+**[Special Items](17-Special-Items.md)** - Unique items and their uses
 
-### Upgrade Templates
-Found exclusively in Ancient City chests, these are required to upgrade your gear.
-
-### Decorative Blocks
-* **Sculk Flowers:** New light sources and decoration.
-* **Wood Sets:** Full block sets for Sculk, Black Birch, Wisterya, and Radioactive Balsa trees.
-
----
-
-## Mechanics: Advanced Furnace
-
-Take your processing to the next level. This block is required to craft high-tier materials.
-
-**Usage Instructions:**
-1.  **Input 1:** Molten Iron Bucket
-2.  **Input 2:** Molten Sculk Bucket
-3.  **Input 3:** Item to transform (e.g., Diamond/Netherite gear)
-4.  **Fuel:** Add fuel below the slots.
-5.  **Result:** Receive your upgraded item and empty buckets.
+### Reference
+**[Language Support](18-Languages.md)** - Supported languages
+**[Configuration](19-Configuration.md)** - Config options
+**[Changelog](20-Changelog.md)** - Version history
+**[FAQ](21-FAQ.md)** - Frequently asked questions
 
 ---
 
-## Versions & Compatibility
+## Quick Start
 
-| Version | Status | Notes |
-| :--- | :--- | :--- |
-| **1.21.1** | Stable | **Recommended.** Full features, stable gameplay. |
-| **1.20.1** | Buggy | Downgrade port. No chest loot in structures. Known bugs will not be fixed. |
+### Installation
+1. Install **<ins>NeoForge 21.1.65+</ins>** for Minecraft 1.21.1
+2. Download **<ins>GeckoLib</ins>** (required dependency)
+3. Place both mods in `.minecraft/mods` folder
+4. Launch Minecraft
 
-> **Modpack Policy:** You are free to use this mod in your modpacks! No permission required.
+### First Steps
+1. Find **<ins>Deep Dark biomes</ins>** (Y: -64 to -16)
+2. Collect **<ins>Sculk materials</ins>**
+3. Craft basic **<ins>Sculk tools</ins>**
+4. Explore **<ins>Ancient Cities</ins>**
+5. Challenge **<ins>bosses</ins>** for rare loot
 
 ---
 
-<div align="center">
-  
-  **Found a bug?**
-  [Report it on GitHub Issues](https://github.com/IxraPlayer/Ardas-Sculks/issues)
+## Supported Languages
+
+**English (US)** - Complete
+**Turkish (TR)** - Complete
+**Portuguese (BR)** - Complete
+
+---
+
+## Creative Tabs
+
+| Tab Name | Content |
+|----------|---------|
+| **<ins>Arda's Sculks - Blocks</ins>** | All building and decorative blocks |
+| **<ins>Arda's Sculks - Weapons</ins>** | Swords, bows, long swords, tools |
+| **<ins>Arda's Sculks - Ores</ins>** | Ore blocks and raw materials |
+| **<ins>Arda's Sculks - Mobs</ins>** | Spawn eggs for all entities |
+| **<ins>Arda's Sculks - Sculk Sensors</ins>** | Sensor variants and redstone |
+
+---
+
+## Quick Links
+
+**GitHub Repository**: [IxraPlayer/Ardas-Sculks](https://github.com/IxraPlayer/Ardas-Sculks)
+**Issue Tracker**: [Report Bugs](https://github.com/IxraPlayer/Ardas-Sculks/issues)
+**CurseForge**: [Download Page](#)
+**Discord**: [Community Server](#)
+
+---
+
+## Highlights
+
+### New Materials
+**<ins>Sculkerite</ins>** - Enhanced sculk metal for powerful equipment
+**<ins>Sacred Obsidian</ins>** - Rare volcanic material
+**<ins>Deep Granulite</ins>** - Ancient deep stone
+**<ins>Sculk Resin</ins>** - Organic sculk substance
+**<ins>Radioactive Sculk</ins>** - Dangerous glowing variant
+
+### Legendary Items
+**<ins>Golden Sculk Arms</ins>** - Harness Warden powers
+**<ins>Sculkerite Armor Set</ins>** - Superior protection
+**<ins>Warden Armor Set</ins>** - Special abilities included
+**<ins>Sculk Bow</ins>** - Enhanced ranged weapon
+**<ins>Deep Dark Upgrade Template</ins>** - Smithing upgrades
+
+### Powerful Bosses
+**<ins>Sculk Golem</ins>** - Mechanical guardian
+**<ins>Radioactive Warden</ins>** - Mutated variant
+**<ins>Shadow Hunter</ins>** - Stealth predator
+
+---
+
+## Important Notes
+
+### Experimental Features
+**Soul Sculk Sensor** - May cause performance issues
+**Advanced Furnace** - Work in progress
+**Radioactive Sculk Sensor** - Can cause lag
+
+### Performance Tips
+Disable radioactive sensors if experiencing lag
+Adjust mob spawn rates in configuration
+Allocate **<ins>4GB+ RAM</ins>** for optimal performance
+
+---
+
+## Credits
+
+**Developer**: Arda (IxraPlayer)
+**Special Thanks**: Good Games Community
+**Tools Used**: MCreator, GeckoLib
+
+---
+
+## License
+
+This mod is licensed under **GNU Lesser General Public License version 2.1 (LGPLv2.1)**
+
+---
+
+**Last Updated**: February 7, 2026
+**Wiki Version**: 1.4.3.4.2
+
+*For the latest information, always check the official repository*
 
 </div>
