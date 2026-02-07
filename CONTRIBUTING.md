@@ -13,7 +13,7 @@ I accept Pull Requests under the following specific condition:
 If you wish to port this mod to a different Minecraft version (e.g., 1.21.8+), a different Mod Loader (e.g., Fabric, Quilt), or a different platform:
 * **Fork & Submit**: You must fork the repository and perform the porting work there.
 * **Official Release**: You are **NOT** allowed to publish these ports independently. You must submit your work to me, and the official version will be released through this main project/account to keep everything centralized.
-* **Credits**: Your contribution will be acknowledged, but the project remains under the official Arda (IxraPlayer) umbrella.
+* **Ownership & Credits:** Your contribution will be acknowledged in a "Contributors" list, but official ownership and authorship of the project remain exclusively with Arda (IxraPlayer). By submitting a contribution, you agree that you do not gain any legal rights or "Main Author" status over the project.
 
 ## Addons
 I encourage creating **addons**! If you build a mod that requires Arda's Sculks to function:
