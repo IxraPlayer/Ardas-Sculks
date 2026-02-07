@@ -1,4 +1,5 @@
-# Arda's Sculks Mod
+<img width="850" height="108" alt="image" src="https://github.com/user-attachments/assets/edce22b4-6f6f-4aad-854b-862a3a5d4815" />
+
 
 >![Minecraft Versions](https://img.shields.io/badge/For%20MC-1.21%20%7C%201.20.1-orange),
 >[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1167439?style=for-the-badge&color=orange&label=Downloads&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/ardas-sculks)
