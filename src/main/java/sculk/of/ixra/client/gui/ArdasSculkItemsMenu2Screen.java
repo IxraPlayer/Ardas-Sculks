@@ -53,13 +53,9 @@ public class ArdasSculkItemsMenu2Screen extends AbstractContainerScreen<ArdasScu
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/book4.png"), this.leftPos + -101, this.topPos + -41, 0, 0, 292, 180, 292, 180);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/warden_claw2.png"), this.leftPos + -56, this.topPos + -23, 0, 0, 64, 64, 64, 64);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/golden_sculk_piece2.png"), this.leftPos + 79, this.topPos + -23, 0, 0, 64, 64, 64, 64);
-
 		RenderSystem.disableBlend();
 	}
 

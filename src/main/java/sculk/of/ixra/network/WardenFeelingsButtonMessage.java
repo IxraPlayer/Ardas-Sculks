@@ -51,7 +51,6 @@ public record WardenFeelingsButtonMessage(int eventType, int pressedms) implemen
 		if (!world.hasChunkAt(entity.blockPosition()))
 			return;
 		if (type == 0) {
-
 			WardenFeelingAbilityProcedure.execute(world, x, y, z, entity);
 		}
 	}

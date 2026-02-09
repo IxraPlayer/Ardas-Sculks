@@ -46,9 +46,7 @@ public class SculkChestGuiScreen extends AbstractContainerScreen<SculkChestGuiMe
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/schestpng.png"), this.leftPos + 0, this.topPos + 0, 0, 0, 176, 197, 176, 197);
-
 		RenderSystem.disableBlend();
 	}
 

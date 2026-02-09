@@ -1,13 +1,13 @@
 {
   "replace": false,
   "values": [
-    "sculks_of_arda:ancient_magma",
     "sculks_of_arda:sculk_carved_pumkin",
     "sculks_of_arda:sculk_smoolight",
     "sculks_of_arda:advanced_furnace_on",
     "sculks_of_arda:quartz_sculk_ore",
     "sculks_of_arda:advanced_furnace",
     "sculks_of_arda:emerald_sculk_ore",
+    "sculks_of_arda:ancient_magma",
     "sculks_of_arda:gold_sculk_ore",
     "sculks_of_arda:diamond_sculk_ore"
   ]

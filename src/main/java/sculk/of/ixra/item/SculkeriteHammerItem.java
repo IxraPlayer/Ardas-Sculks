@@ -52,7 +52,7 @@ public class SculkeriteHammerItem extends PickaxeItem {
 	};
 
 	public SculkeriteHammerItem() {
-		super(TOOL_TIER, new Item.Properties().attributes(DiggerItem.createAttributes(TOOL_TIER, 11.8f, -2.6f)).fireResistant());
+		super(TOOL_TIER, new Item.Properties().attributes(DiggerItem.createAttributes(TOOL_TIER, 8f, -2.6f)).fireResistant());
 	}
 
 	@Override

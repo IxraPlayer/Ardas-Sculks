@@ -11,7 +11,6 @@ import software.bernie.geckolib.animatable.instance.AnimatableInstanceCache;
 import software.bernie.geckolib.animatable.GeoEntity;
 
 import sculk.of.ixra.procedures.SculkCreeperOnEntityTickUpdateProcedure;
-import sculk.of.ixra.init.SculksOfArdaModItems;
 import sculk.of.ixra.init.SculksOfArdaModEntities;
 
 import net.neoforged.neoforge.event.entity.RegisterSpawnPlacementsEvent;
@@ -19,7 +18,6 @@ import net.neoforged.neoforge.common.NeoForgeMod;
 
 import net.minecraft.world.level.levelgen.Heightmap;
 import net.minecraft.world.level.Level;
-import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.entity.projectile.ThrownPotion;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.entity.monster.Monster;
@@ -43,7 +41,6 @@ import net.minecraft.world.damagesource.DamageTypes;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.Difficulty;
 import net.minecraft.sounds.SoundEvent;
-import net.minecraft.server.level.ServerLevel;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.syncher.SynchedEntityData;
 import net.minecraft.network.syncher.EntityDataSerializers;
@@ -97,11 +94,6 @@ public class SculkCreeperEntity extends Creeper implements GeoEntity {
 		this.targetSelector.addGoal(4, new HurtByTargetGoal(this));
 		this.goalSelector.addGoal(5, new RandomLookAroundGoal(this));
 		this.goalSelector.addGoal(6, new FloatGoal(this));
-	}
-
-	protected void dropCustomDeathLoot(ServerLevel serverLevel, DamageSource source, boolean recentlyHitIn) {
-		super.dropCustomDeathLoot(serverLevel, source, recentlyHitIn);
-		this.spawnAtLocation(new ItemStack(SculksOfArdaModItems.SCULK_PIECE.get()));
 	}
 
 	@Override
@@ -180,9 +172,7 @@ public class SculkCreeperEntity extends Creeper implements GeoEntity {
 
 	private PlayState movementPredicate(AnimationState event) {
 		if (this.animationprocedure.equals("empty")) {
-			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))
-
-			) {
+			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))) {
 				return event.setAndContinue(RawAnimation.begin().thenLoop("yurume"));
 			}
 			return event.setAndContinue(RawAnimation.begin().thenLoop("ambient"));

@@ -46,27 +46,16 @@ public class AdvancedFurnaceGuiScreen extends AbstractContainerScreen<AdvancedFu
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnacemcgui.png"), this.leftPos + 0, this.topPos + 0, 0, 0, 207, 218, 207, 218);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnaceslot1.png"), this.leftPos + 134, this.topPos + 55, 0, 0, 28, 28, 28, 28);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnaceslot2.png"), this.leftPos + 76, this.topPos + 94, 0, 0, 18, 18, 18, 18);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnaceslot4.png"), this.leftPos + 103, this.topPos + 24, 0, 0, 18, 18, 18, 18);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnaceslot4.png"), this.leftPos + 49, this.topPos + 24, 0, 0, 18, 18, 18, 18);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/furnaceongui.png"), this.leftPos + 76, this.topPos + 76, 0, 0, 17, 17, 17, 17);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnacearrow10.png"), this.leftPos + 103, this.topPos + 61, 0, 0, 22, 16, 22, 16);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnacearrow1.png"), this.leftPos + 67, this.topPos + 35, 0, 0, 35, 17, 35, 17);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/afurnaceslot5.png"), this.leftPos + 169, this.topPos + 55, 0, 0, 28, 28, 28, 28);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/craftrepiceguiadvancedfurnace.png"), this.leftPos + -86, this.topPos + 6, 0, 0, 76, 94, 76, 94);
-
 		RenderSystem.disableBlend();
 	}
 

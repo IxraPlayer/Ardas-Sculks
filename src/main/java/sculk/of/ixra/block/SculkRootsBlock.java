@@ -21,7 +21,7 @@ import net.minecraft.core.BlockPos;
 public class SculkRootsBlock extends FlowerBlock {
 	public SculkRootsBlock() {
 		super(MobEffects.MOVEMENT_SPEED, 100,
-				BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_BLUE).sound(SoundType.GRASS).instabreak().lightLevel(s -> 2).noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
+				BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_BLUE).randomTicks().sound(SoundType.GRASS).instabreak().lightLevel(s -> 2).noCollission().offsetType(BlockBehaviour.OffsetType.XZ).pushReaction(PushReaction.DESTROY));
 	}
 
 	@Override

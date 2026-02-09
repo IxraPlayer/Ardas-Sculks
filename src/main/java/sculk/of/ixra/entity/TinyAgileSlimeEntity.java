@@ -172,9 +172,7 @@ public class TinyAgileSlimeEntity extends Monster implements GeoEntity {
 
 	private PlayState movementPredicate(AnimationState event) {
 		if (this.animationprocedure.equals("empty")) {
-			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))
-
-			) {
+			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))) {
 				return event.setAndContinue(RawAnimation.begin().thenLoop("walk"));
 			}
 			return event.setAndContinue(RawAnimation.begin().thenLoop("ambient"));

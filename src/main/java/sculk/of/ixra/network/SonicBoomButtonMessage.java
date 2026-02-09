@@ -51,7 +51,6 @@ public record SonicBoomButtonMessage(int eventType, int pressedms) implements Cu
 		if (!world.hasChunkAt(entity.blockPosition()))
 			return;
 		if (type == 0) {
-
 			SonicBoomProcedure.execute(world, entity);
 		}
 	}

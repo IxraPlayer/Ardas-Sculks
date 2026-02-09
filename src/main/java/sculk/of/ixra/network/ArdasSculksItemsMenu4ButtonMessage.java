@@ -61,11 +61,9 @@ public record ArdasSculksItemsMenu4ButtonMessage(int buttonID, int x, int y, int
 		if (!world.hasChunkAt(new BlockPos(x, y, z)))
 			return;
 		if (buttonID == 0) {
-
 			OpenArdasSculksItemsMenu3GuiProcedure.execute(world, x, y, z, entity);
 		}
 		if (buttonID == 1) {
-
 			OpenArdasSculksItemsMenu5GuiProcedure.execute(world, x, y, z, entity);
 		}
 	}

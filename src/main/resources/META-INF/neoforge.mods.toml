@@ -4,13 +4,13 @@ license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
 
 [[mods]]
 modId="sculks_of_arda"
-version="1.4.3.4"
+version="1.4.3.5"
 displayName="Arda's Sculks"
-displayURL="https://mcreator.net"
+displayURL="https://github.com/IxraPlayer/Ardas-Sculks"
 logoFile="logo.png"
-credits="Good Games."
-authors="Arda"
-description="Arda's Sculk mod is a mod that allows you to make stronger tools and items by improving the sculks in the game.  "
+credits="\u00A7eSpecial thanks to \u00A7lGood Games \u00A7r\u00A7efor support!"
+authors="\u00A7b\u00A7lArda"
+description="\u00A7bImproves the sculk mechanics with new tools, items, and terrifying bosses. \u00A7nExplore the deep dark like never before!"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

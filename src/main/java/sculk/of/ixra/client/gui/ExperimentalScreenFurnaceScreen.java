@@ -52,9 +52,7 @@ public class ExperimentalScreenFurnaceScreen extends AbstractContainerScreen<Exp
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/book2.png"), this.leftPos + -29, this.topPos + -41, 0, 0, 146, 180, 146, 180);
-
 		RenderSystem.disableBlend();
 	}
 

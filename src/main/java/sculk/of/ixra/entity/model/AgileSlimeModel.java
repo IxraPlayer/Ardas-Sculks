@@ -21,5 +21,4 @@ public class AgileSlimeModel extends GeoModel<AgileSlimeEntity> {
 	public ResourceLocation getTextureResource(AgileSlimeEntity entity) {
 		return ResourceLocation.parse("sculks_of_arda:textures/entities/" + entity.getTexture() + ".png");
 	}
-
 }

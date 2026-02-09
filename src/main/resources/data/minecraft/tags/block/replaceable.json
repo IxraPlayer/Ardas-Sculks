@@ -1,10 +1,10 @@
 {
   "replace": false,
   "values": [
-    "sculks_of_arda:replace_sculk_air_no_tick_limit",
     "sculks_of_arda:powered_sculk_air_not_tick_limit",
     "sculks_of_arda:replace_sculk_air",
     "sculks_of_arda:powered_sculk_air",
-    "sculks_of_arda:sculk_air"
+    "sculks_of_arda:sculk_air",
+    "sculks_of_arda:replace_sculk_air_no_tick_limit"
   ]
 }

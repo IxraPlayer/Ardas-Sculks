@@ -66,9 +66,7 @@ public class RSculkChestBlock extends BaseEntityBlock implements SimpleWaterlogg
 	}
 
 	public RSculkChestBlock() {
-		super(BlockBehaviour.Properties.of()
-
-				.sound(SoundType.SCULK_SENSOR).strength(1.2f, 11.5f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
+		super(BlockBehaviour.Properties.of().sound(SoundType.SCULK_SENSOR).strength(1.2f, 11.5f).noOcclusion().isRedstoneConductor((bs, br, bp) -> false));
 		this.registerDefaultState(this.stateDefinition.any().setValue(FACING, Direction.NORTH).setValue(WATERLOGGED, false));
 	}
 
@@ -145,7 +143,6 @@ public class RSculkChestBlock extends BaseEntityBlock implements SimpleWaterlogg
 		int x = pos.getX();
 		int y = pos.getY();
 		int z = pos.getZ();
-
 		RSculkChestOnTickUpdateProcedure.execute(world, x, y, z);
 		world.scheduleTick(pos, this, 20);
 	}

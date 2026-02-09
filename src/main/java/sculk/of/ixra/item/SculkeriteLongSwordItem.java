@@ -48,7 +48,7 @@ public class SculkeriteLongSwordItem extends SwordItem {
 	};
 
 	public SculkeriteLongSwordItem() {
-		super(TOOL_TIER, new Item.Properties().attributes(SwordItem.createAttributes(TOOL_TIER, 8.8f, -2.4f)).fireResistant());
+		super(TOOL_TIER, new Item.Properties().attributes(SwordItem.createAttributes(TOOL_TIER, 13.8f, -2.4f)).fireResistant());
 	}
 
 	@Override

@@ -48,7 +48,7 @@ public class WardenSwordItem extends SwordItem {
 	};
 
 	public WardenSwordItem() {
-		super(TOOL_TIER, new Item.Properties().attributes(SwordItem.createAttributes(TOOL_TIER, 14.2f, -3.3f)).fireResistant());
+		super(TOOL_TIER, new Item.Properties().attributes(SwordItem.createAttributes(TOOL_TIER, 16.2f, -3.3f)).fireResistant());
 	}
 
 	@Override

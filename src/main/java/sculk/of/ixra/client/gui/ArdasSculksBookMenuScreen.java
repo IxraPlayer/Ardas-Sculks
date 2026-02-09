@@ -61,13 +61,9 @@ public class ArdasSculksBookMenuScreen extends AbstractContainerScreen<ArdasScul
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/book5.png"), this.leftPos + -101, this.topPos + -41, 0, 0, 292, 180, 292, 180);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/ardassculkslogo2.png"), this.leftPos + -83, this.topPos + -32, 0, 0, 256, 64, 256, 64);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/bookbutton.png"), this.leftPos + 90, this.topPos + 91, 0, 0, 44, 15, 44, 15);
-
 		RenderSystem.disableBlend();
 	}
 

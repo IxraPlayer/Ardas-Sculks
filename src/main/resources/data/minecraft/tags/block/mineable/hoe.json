@@ -2,18 +2,18 @@
   "replace": false,
   "values": [
     "sculks_of_arda:sculk_grass_block_no_tree_spawning",
-    "sculks_of_arda:sculk_eye_block",
-    "sculks_of_arda:flowering_sculk_grass_block",
-    "sculks_of_arda:radioactive_sculk_sensor",
-    "sculks_of_arda:radioactive_sculk",
-    "sculks_of_arda:radioactive_sculk_grass_block",
     "sculks_of_arda:wisterya_sculk_grass",
     "sculks_of_arda:sculk_grass_path_block",
     "sculks_of_arda:sculk_moss_block",
+    "sculks_of_arda:sculk_eye_block",
+    "sculks_of_arda:flowering_sculk_grass_block",
     "sculks_of_arda:sculk_chest",
     "sculks_of_arda:soul_sculk_sensor",
     "sculks_of_arda:soul_sculk_grass",
     "sculks_of_arda:mycelium_sculk_grass",
-    "sculks_of_arda:sculk_grass_block"
+    "sculks_of_arda:radioactive_sculk_sensor",
+    "sculks_of_arda:sculk_grass_block",
+    "sculks_of_arda:radioactive_sculk",
+    "sculks_of_arda:radioactive_sculk_grass_block"
   ]
 }

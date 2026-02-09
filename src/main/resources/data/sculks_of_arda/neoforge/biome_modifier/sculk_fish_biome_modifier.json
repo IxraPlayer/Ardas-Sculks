@@ -1,14 +1,6 @@
 {
   "type": "neoforge:add_spawns",
-  "biomes": [
-    "sculks_of_arda:black_birch_forest",
-    "sculks_of_arda:mushroom_sculk_forest",
-    "sculks_of_arda:sculk_deserts",
-    "sculks_of_arda:sculk_plains",
-    "sculks_of_arda:sculk_woods",
-    "sculks_of_arda:soul_sculk_plains",
-    "sculks_of_arda:wisterya_forest"
-  ],
+  "biomes": "#minecraft:ancientworldbiomes",
   "spawners": {
     "type": "sculks_of_arda:sculk_fish",
     "weight": 10,

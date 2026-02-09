@@ -35,6 +35,5 @@ public class SculkCreeperModel extends GeoModel<SculkCreeperEntity> {
 			head.setRotX(entityData.headPitch() * Mth.DEG_TO_RAD);
 			head.setRotY(entityData.netHeadYaw() * Mth.DEG_TO_RAD);
 		}
-
 	}
 }

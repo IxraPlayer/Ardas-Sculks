@@ -4,5 +4,5 @@
     "texture": "sculks_of_arda:block/wisterya_trapdoor",
     "particle": "sculks_of_arda:block/wisterya_trapdoor"
   },
-  "render_type": "translucent"
+  "render_type": "cutout"
 }

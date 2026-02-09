@@ -4,6 +4,10 @@
  */
 package sculk.of.ixra.init;
 
+import sculk.of.ixra.block.entity.ShadowHunterSpawnerBlockEntity;
+import sculk.of.ixra.block.entity.SculkMobSpawnerBlockEntity;
+import sculk.of.ixra.block.entity.SculkGolemSpawnerBlockEntity;
+import sculk.of.ixra.block.entity.RadioactiveWardenSpawnerBlockEntity;
 import sculk.of.ixra.block.entity.RSculkChestTileEntity;
 import sculk.of.ixra.block.entity.DeepslateDispenserBlockEntity;
 import sculk.of.ixra.block.entity.AdvancedFurnaceOnBlockEntity;
@@ -26,8 +30,12 @@ public class SculksOfArdaModBlockEntities {
 	public static final DeferredRegister<BlockEntityType<?>> REGISTRY = DeferredRegister.create(BuiltInRegistries.BLOCK_ENTITY_TYPE, SculksOfArdaMod.MODID);
 	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> ADVANCED_FURNACE = register("advanced_furnace", SculksOfArdaModBlocks.ADVANCED_FURNACE, AdvancedFurnaceBlockEntity::new);
 	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> ADVANCED_FURNACE_ON = register("advanced_furnace_on", SculksOfArdaModBlocks.ADVANCED_FURNACE_ON, AdvancedFurnaceOnBlockEntity::new);
+	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> SCULK_GOLEM_SPAWNER = register("sculk_golem_spawner", SculksOfArdaModBlocks.SCULK_GOLEM_SPAWNER, SculkGolemSpawnerBlockEntity::new);
 	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> SCULK_CHEST = register("sculk_chest", SculksOfArdaModBlocks.SCULK_CHEST, RSculkChestTileEntity::new);
+	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> SCULK_MOB_SPAWNER = register("sculk_mob_spawner", SculksOfArdaModBlocks.SCULK_MOB_SPAWNER, SculkMobSpawnerBlockEntity::new);
+	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> RADIOACTIVE_WARDEN_SPAWNER = register("radioactive_warden_spawner", SculksOfArdaModBlocks.RADIOACTIVE_WARDEN_SPAWNER, RadioactiveWardenSpawnerBlockEntity::new);
 	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> DEEPSLATE_DISPENSER = register("deepslate_dispenser", SculksOfArdaModBlocks.DEEPSLATE_DISPENSER, DeepslateDispenserBlockEntity::new);
+	public static final DeferredHolder<BlockEntityType<?>, BlockEntityType<?>> SHADOW_HUNTER_SPAWNER = register("shadow_hunter_spawner", SculksOfArdaModBlocks.SHADOW_HUNTER_SPAWNER, ShadowHunterSpawnerBlockEntity::new);
 
 	// Start of user code block custom block entities
 	// End of user code block custom block entities
@@ -39,7 +47,11 @@ public class SculksOfArdaModBlockEntities {
 	public static void registerCapabilities(RegisterCapabilitiesEvent event) {
 		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, ADVANCED_FURNACE.get(), (blockEntity, side) -> ((AdvancedFurnaceBlockEntity) blockEntity).getItemHandler());
 		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, ADVANCED_FURNACE_ON.get(), (blockEntity, side) -> ((AdvancedFurnaceOnBlockEntity) blockEntity).getItemHandler());
+		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, SCULK_GOLEM_SPAWNER.get(), (blockEntity, side) -> ((SculkGolemSpawnerBlockEntity) blockEntity).getItemHandler());
+		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, SCULK_MOB_SPAWNER.get(), (blockEntity, side) -> ((SculkMobSpawnerBlockEntity) blockEntity).getItemHandler());
+		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, RADIOACTIVE_WARDEN_SPAWNER.get(), (blockEntity, side) -> ((RadioactiveWardenSpawnerBlockEntity) blockEntity).getItemHandler());
 		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, DEEPSLATE_DISPENSER.get(), (blockEntity, side) -> ((DeepslateDispenserBlockEntity) blockEntity).getItemHandler());
+		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, SHADOW_HUNTER_SPAWNER.get(), (blockEntity, side) -> ((ShadowHunterSpawnerBlockEntity) blockEntity).getItemHandler());
 		event.registerBlockEntity(Capabilities.ItemHandler.BLOCK, SCULK_CHEST.get(), (blockEntity, side) -> ((RSculkChestTileEntity) blockEntity).getItemHandler());
 	}
 }

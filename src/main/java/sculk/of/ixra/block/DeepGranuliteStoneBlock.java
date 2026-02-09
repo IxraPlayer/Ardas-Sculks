@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class DeepGranuliteStoneBlock extends Block {
 	public DeepGranuliteStoneBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.BASALT).strength(6.65f, 20f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of().sound(SoundType.BASALT).strength(8f, 20f).requiresCorrectToolForDrops());
 	}
 
 	@Override

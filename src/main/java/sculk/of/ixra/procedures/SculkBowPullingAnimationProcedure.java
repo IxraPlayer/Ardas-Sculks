@@ -31,7 +31,8 @@ public class SculkBowPullingAnimationProcedure {
 	private static void execute(@Nullable Event event, Entity entity) {
 		if (entity == null)
 			return;
-		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == SculksOfArdaModItems.SCULK_BOW.get()) {
+		if ((entity instanceof Player _playerHasItem ? _playerHasItem.getInventory().contains(new ItemStack(SculksOfArdaModItems.SCULK_ARROW_ITEM.get())) : false)
+				&& (entity instanceof LivingEntity _livEnt ? _livEnt.getMainHandItem() : ItemStack.EMPTY).getItem() == SculksOfArdaModItems.SCULK_BOW.get()) {
 			if (entity instanceof LivingEntity _entity) {
 				ItemStack _setstack = new ItemStack(SculksOfArdaModItems.SCULK_BOW_PULLING.get()).copy();
 				_setstack.setCount(1);
@@ -40,7 +41,8 @@ public class SculkBowPullingAnimationProcedure {
 					_player.getInventory().setChanged();
 			}
 		}
-		if ((entity instanceof LivingEntity _livEnt ? _livEnt.getOffhandItem() : ItemStack.EMPTY).getItem() == SculksOfArdaModItems.SCULK_BOW.get()) {
+		if ((entity instanceof Player _playerHasItem ? _playerHasItem.getInventory().contains(new ItemStack(SculksOfArdaModItems.SCULK_ARROW_ITEM.get())) : false)
+				&& (entity instanceof LivingEntity _livEnt ? _livEnt.getOffhandItem() : ItemStack.EMPTY).getItem() == SculksOfArdaModItems.SCULK_BOW.get()) {
 			if (entity instanceof LivingEntity _entity) {
 				ItemStack _setstack = new ItemStack(SculksOfArdaModItems.SCULK_BOW_PULLING.get()).copy();
 				_setstack.setCount(1);

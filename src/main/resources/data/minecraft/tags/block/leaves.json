@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "sculks_of_arda:radioactive_balsa_leaves",
     "sculks_of_arda:wisterya_leaves",
     "sculks_of_arda:black_birch_leaves",
-    "sculks_of_arda:sculk_log_leaves"
+    "sculks_of_arda:sculk_log_leaves",
+    "sculks_of_arda:radioactive_balsa_leaves"
   ]
 }

@@ -21,5 +21,4 @@ public class SculkBoss1TModel extends GeoModel<SculkBoss1TEntity> {
 	public ResourceLocation getTextureResource(SculkBoss1TEntity entity) {
 		return ResourceLocation.parse("sculks_of_arda:textures/entities/" + entity.getTexture() + ".png");
 	}
-
 }

@@ -46,15 +46,10 @@ public class DeepslateDispenserGUIScreen extends AbstractContainerScreen<Deepsla
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/deepslatecrafter.png"), this.leftPos + 0, this.topPos + 0, 0, 0, 175, 196, 175, 196);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/guimultiitem3.png"), this.leftPos + 25, this.topPos + 41, 0, 0, 16, 16, 16, 16);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/guiingotitem3.png"), this.leftPos + 24, this.topPos + 76, 0, 0, 18, 18, 18, 18);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/craftrepiceguidispenser.png"), this.leftPos + -84, this.topPos + 4, 0, 0, 76, 94, 76, 94);
-
 		RenderSystem.disableBlend();
 	}
 

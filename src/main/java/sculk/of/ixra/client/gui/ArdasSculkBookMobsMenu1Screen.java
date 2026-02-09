@@ -65,41 +65,23 @@ public class ArdasSculkBookMobsMenu1Screen extends AbstractContainerScreen<Ardas
 		RenderSystem.enableBlend();
 		RenderSystem.defaultBlendFunc();
 		guiGraphics.blit(texture, this.leftPos, this.topPos, 0, 0, this.imageWidth, this.imageHeight, this.imageWidth, this.imageHeight);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/book4.png"), this.leftPos + -101, this.topPos + -41, 0, 0, 292, 180, 292, 180);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + -15, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + -5, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 5, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 15, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 25, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 122, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 132, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 142, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 152, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 162, this.topPos + 67, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 122, this.topPos + 77, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 132, this.topPos + 77, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/heart.png"), this.leftPos + 142, this.topPos + 77, 0, 0, 9, 9, 9, 9);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/sculk_piece.png"), this.leftPos + -38, this.topPos + 94, 0, 0, 16, 16, 16, 16);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/warden_claw.png"), this.leftPos + 97, this.topPos + 94, 0, 0, 16, 16, 16, 16);
-
 		guiGraphics.blit(ResourceLocation.parse("sculks_of_arda:textures/screens/bone.png"), this.leftPos + 115, this.topPos + 94, 0, 0, 16, 16, 16, 16);
-
 		RenderSystem.disableBlend();
 	}
 

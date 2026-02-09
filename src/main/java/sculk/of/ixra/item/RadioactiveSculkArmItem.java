@@ -25,7 +25,7 @@ import java.util.List;
 
 public class RadioactiveSculkArmItem extends Item {
 	public RadioactiveSculkArmItem() {
-		super(new Item.Properties().durability(100000).attributes(ItemAttributeModifiers.builder().add(Attributes.ATTACK_DAMAGE, new AttributeModifier(BASE_ATTACK_DAMAGE_ID, 6.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
+		super(new Item.Properties().durability(2000).attributes(ItemAttributeModifiers.builder().add(Attributes.ATTACK_DAMAGE, new AttributeModifier(BASE_ATTACK_DAMAGE_ID, 6.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
 				.add(Attributes.ATTACK_SPEED, new AttributeModifier(BASE_ATTACK_SPEED_ID, -2.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND).build()));
 	}
 

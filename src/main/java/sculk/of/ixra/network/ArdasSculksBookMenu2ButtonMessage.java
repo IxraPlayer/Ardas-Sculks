@@ -60,7 +60,6 @@ public record ArdasSculksBookMenu2ButtonMessage(int buttonID, int x, int y, int 
 		if (!world.hasChunkAt(new BlockPos(x, y, z)))
 			return;
 		if (buttonID == 1) {
-
 			OpenMenuGuiProcedure.execute(world, x, y, z, entity);
 		}
 	}

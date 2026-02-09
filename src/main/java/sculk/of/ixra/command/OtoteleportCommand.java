@@ -32,7 +32,6 @@ public class OtoteleportCommand {
 				Direction direction = Direction.DOWN;
 				if (entity != null)
 					direction = entity.getDirection();
-
 				OtotellpardasProcedure.execute(world, x, y, z, entity);
 				return 0;
 			}));

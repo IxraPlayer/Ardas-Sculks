@@ -13,16 +13,16 @@
     "sculks_of_arda:sculk_resin_block_slab",
     "sculks_of_arda:sculk_resin_bricks_slab",
     "sculks_of_arda:sculk_bone_block_slab",
+    "sculks_of_arda:wisterya_rock_slab",
     "sculks_of_arda:sculk_bone_bricks_slab",
     "sculks_of_arda:sculk_bone_tiles_slab",
     "sculks_of_arda:sculkerite_deepslate_bricks_slab",
+    "sculks_of_arda:wisterya_slab",
     "sculks_of_arda:sculk_crystal_tiles_slab",
     "sculks_of_arda:sculk_crystal_bricks_slab",
-    "sculks_of_arda:radioactive_balsa_slab",
-    "sculks_of_arda:deep_granulite_bricks_slab",
-    "sculks_of_arda:wisterya_rock_slab",
-    "sculks_of_arda:wisterya_slab",
     "sculks_of_arda:black_birch_slab",
-    "sculks_of_arda:sculk_log_slab"
+    "sculks_of_arda:sculk_log_slab",
+    "sculks_of_arda:radioactive_balsa_slab",
+    "sculks_of_arda:deep_granulite_bricks_slab"
   ]
 }

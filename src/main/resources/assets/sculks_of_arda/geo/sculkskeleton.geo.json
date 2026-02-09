@@ -45,9 +45,8 @@
 				{
 					"name": "LeftArm",
 					"pivot": [5, 22, 0],
-					"mirror": true,
 					"cubes": [
-						{"origin": [-5, 21, -17], "size": [2, 12, 2], "pivot": [-9, 9, -16], "rotation": [-47.20513, 18.88952, 16.68541], "uv": [40, 16]}
+						{"origin": [-5, 21, -17], "size": [2, 12, 2], "pivot": [-9, 9, -16], "rotation": [-47.20513, 18.88952, 16.68541], "uv": [40, 16], "mirror": true}
 					]
 				},
 				{
@@ -65,9 +64,8 @@
 				{
 					"name": "LeftLeg",
 					"pivot": [2, 12, 0],
-					"mirror": true,
 					"cubes": [
-						{"origin": [1, 0, -1], "size": [2, 12, 2], "uv": [0, 16]}
+						{"origin": [1, 0, -1], "size": [2, 12, 2], "uv": [0, 16], "mirror": true}
 					]
 				},
 				{

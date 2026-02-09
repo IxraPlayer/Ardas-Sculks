@@ -17,12 +17,12 @@
     "sculks_of_arda:sculk_bone_bricks_stairs",
     "sculks_of_arda:sculk_bone_tiles_stairs",
     "sculks_of_arda:sculkerite_deepslate_bricks_stairs",
+    "sculks_of_arda:wisterya_stairs",
     "sculks_of_arda:sculk_crystal_tiles_stairs",
     "sculks_of_arda:sculk_crystal_bricks_stairs",
-    "sculks_of_arda:radioactive_balsa_stairs",
-    "sculks_of_arda:deep_granulite_stone_bricks_stairs",
-    "sculks_of_arda:wisterya_stairs",
     "sculks_of_arda:black_birch_stairs",
-    "sculks_of_arda:sculk_log_stairs"
+    "sculks_of_arda:sculk_log_stairs",
+    "sculks_of_arda:radioactive_balsa_stairs",
+    "sculks_of_arda:deep_granulite_stone_bricks_stairs"
   ]
 }

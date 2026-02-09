@@ -4,5 +4,5 @@
     "texture": "sculks_of_arda:block/sculk_crystal_trapdoor",
     "particle": "sculks_of_arda:block/sculk_crystal_trapdoor"
   },
-  "render_type": "translucent"
+  "render_type": "cutout"
 }

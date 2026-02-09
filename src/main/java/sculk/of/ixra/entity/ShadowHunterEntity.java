@@ -80,7 +80,6 @@ public class ShadowHunterEntity extends Zombie implements GeoEntity {
 	@Override
 	protected void registerGoals() {
 		super.registerGoals();
-
 	}
 
 	@Override
@@ -216,9 +215,7 @@ public class ShadowHunterEntity extends Zombie implements GeoEntity {
 
 	private PlayState movementPredicate(AnimationState event) {
 		if (this.animationprocedure.equals("empty")) {
-			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))
-
-					&& !this.isSprinting()) {
+			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F)) && !this.isSprinting()) {
 				return event.setAndContinue(RawAnimation.begin().thenLoop("animation.ShadowHunter.walk"));
 			}
 			if (this.isDeadOrDying()) {

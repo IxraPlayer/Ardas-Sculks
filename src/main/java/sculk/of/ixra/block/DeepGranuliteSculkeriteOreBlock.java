@@ -10,7 +10,7 @@ import net.minecraft.core.BlockPos;
 
 public class DeepGranuliteSculkeriteOreBlock extends Block {
 	public DeepGranuliteSculkeriteOreBlock() {
-		super(BlockBehaviour.Properties.of().sound(SoundType.BASALT).strength(5f, 20f).requiresCorrectToolForDrops());
+		super(BlockBehaviour.Properties.of().sound(SoundType.BASALT).strength(8f, 20f).requiresCorrectToolForDrops());
 	}
 
 	@Override

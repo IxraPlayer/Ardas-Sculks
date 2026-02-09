@@ -1,9 +1,9 @@
 {
   "replace": false,
   "values": [
-    "sculks_of_arda:radioactive_balsa_fence",
     "sculks_of_arda:wisterya_fence",
     "sculks_of_arda:black_birch_fence",
-    "sculks_of_arda:sculk_log_fence"
+    "sculks_of_arda:sculk_log_fence",
+    "sculks_of_arda:radioactive_balsa_fence"
   ]
 }

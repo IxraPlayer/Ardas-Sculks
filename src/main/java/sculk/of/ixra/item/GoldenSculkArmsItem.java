@@ -24,7 +24,7 @@ import java.util.List;
 
 public class GoldenSculkArmsItem extends Item {
 	public GoldenSculkArmsItem() {
-		super(new Item.Properties().durability(3060).attributes(ItemAttributeModifiers.builder().add(Attributes.ATTACK_DAMAGE, new AttributeModifier(BASE_ATTACK_DAMAGE_ID, 7.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
+		super(new Item.Properties().durability(2500).attributes(ItemAttributeModifiers.builder().add(Attributes.ATTACK_DAMAGE, new AttributeModifier(BASE_ATTACK_DAMAGE_ID, 7.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND)
 				.add(Attributes.ATTACK_SPEED, new AttributeModifier(BASE_ATTACK_SPEED_ID, -2.2, AttributeModifier.Operation.ADD_VALUE), EquipmentSlotGroup.MAINHAND).build()));
 	}
 

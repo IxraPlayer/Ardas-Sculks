@@ -295,9 +295,7 @@ public class SculkSkeletonEntity extends Monster implements RangedAttackMob, Geo
 
 	private PlayState movementPredicate(AnimationState event) {
 		if (this.animationprocedure.equals("empty")) {
-			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))
-
-			) {
+			if ((event.isMoving() || !(event.getLimbSwingAmount() > -0.15F && event.getLimbSwingAmount() < 0.15F))) {
 				return event.setAndContinue(RawAnimation.begin().thenLoop("yurume"));
 			}
 			return event.setAndContinue(RawAnimation.begin().thenLoop("ambient"));
