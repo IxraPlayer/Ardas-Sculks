@@ -75,7 +75,7 @@
 
 ### Reference
 **[Language Support](18-Languages.md)** - Supported languages
-**[Configuration](19-Configuration.md)** - Config options
+**Configuration** - Config options
 **[Changelog](20-Changelog.md)** - Version history
 **[FAQ](21-FAQ.md)** - Frequently asked questions
 
