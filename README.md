@@ -4,7 +4,7 @@
   
 <img width="850" height="108" alt="image" src="https://github.com/user-attachments/assets/fb2dfcc3-d2cb-4d50-9e49-a71acf2ca0a8" />
 
-![Version](https://img.shields.io/badge/Version-1.4.3.4-0066cc?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.4.3.5-0066cc?style=for-the-badge)
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-0099ff?style=for-the-badge)
 ![NeoForge](https://img.shields.io/badge/NeoForge-21.1.65+-0066ff?style=for-the-badge)
 
@@ -34,7 +34,7 @@
 |----------|-------|
 | **Mod Name** | Arda's Sculks |
 | **Mod ID** | `sculks_of_arda` |
-| **<ins>Current Version</ins>** | **1.4.3.4.2** |
+| **<ins>Current Version</ins>** | **1.4.3.5** |
 | **<ins>Minecraft Version</ins>** | **1.21.1** |
 | **<ins>Mod Loader</ins>** | **NeoForge 21.1.65+** |
 | **Dependencies** | GeckoLib (Required), JEI (Optional) |
