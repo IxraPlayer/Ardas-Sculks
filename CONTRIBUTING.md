@@ -6,7 +6,7 @@ If you want to create content or ports for **Arda's Sculks**, please follow thes
 You are **NOT** allowed to re-upload the entire mod or a slightly modified version of it as a standalone project without following the porting rules below.
 
 ## Contributions & Pull Requests
-I do **NOT** accept direct Pull Requests or code merges into this main repository. This is to ensure the security and integrity of the original source code. All official updates for this main branch will be handled exclusively by me.
+I am highly selective regarding direct Pull Requests or code merges into this main repository. Only contributions that meet the highest standards of quality, security, and integrity will be considered for review. This ensures the original source code remains stable, and all final merges are handled exclusively by me to maintain the project's excellence.
 
 ## Versions, Ports, and Loaders
 If you wish to port this mod to a different Minecraft version (e.g., 1.21.8+), a different Mod Loader (e.g., Fabric, Quilt), or a different platform:
