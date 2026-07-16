@@ -111,6 +111,7 @@
 9. **Turkmen (Turkmenistan)** - In Progress
 10. **Uzbek (Uzbekistan)** - In Progress
 11. **Tatar (Tatarstan)** - In Progress
+12. **Bashkir (Bashkortostan)** - In Progress
 
 ---
 
