@@ -102,13 +102,15 @@
 
 1. **English (US)** - Complete
 2. **Turkish (TR)** - Complete
-3. **Portuguese (BR)** - Complete
-4. **French (FR)** - In Progress
-5. **Kazakh (Kazakhstan)** - In Progress
-6. **Kyrgyz (Kyrgyzstan)** - In Progress
-7. **Yakut (Sakha)** - In Progress
-8. **Turkmen (Turkmenistan)** - In Progress
-9. **Uzbek (Uzbekistan)** - In Progress
+3. **Azerbaijani Turkish (AZ)** - To-do list
+4. **Portuguese (BR)** - Complete
+5. **French (FR)** - In Progress
+6. **Kazakh (Kazakhstan)** - In Progress
+7. **Kyrgyz (Kyrgyzstan)** - In Progress
+8. **Yakut (Sakha)** - In Progress
+9. **Turkmen (Turkmenistan)** - In Progress
+10. **Uzbek (Uzbekistan)** - In Progress
+11. **Tatar (Tatarstan)** - In Progress
 
 ---
 
