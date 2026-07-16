@@ -102,7 +102,7 @@
 
 1. **English (US)** - Complete
 2. **Turkish (TR)** - Complete
-3. **Azerbaijani Turkish (AZ)** - To-do list
+3. **Azerbaijani Turkish (AZ)** - In Progress
 4. **Portuguese (BR)** - Complete
 5. **French (FR)** - In Progress
 6. **Kazakh (Kazakhstan)** - In Progress
