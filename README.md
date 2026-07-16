@@ -100,15 +100,15 @@
 
 ## Supported Languages
 
-**English (US)** - Complete
-**Turkish (TR)** - Complete
-**Portuguese (BR)** - Complete
-**French (FR)** - In Progress
-**Kazakh (Kazakhstan)** - In Progress
-**Kyrgyz (Kyrgyzstan)** - In Progress
-**Yakut (Sakha)** - In Progress
-**Turkmen (Turkmenistan)** - In Progress
-**Uzbek (Uzbekistan)** - In Progress
+1. **English (US)** - Complete
+2. **Turkish (TR)** - Complete
+3. **Portuguese (BR)** - Complete
+4. **French (FR)** - In Progress
+5. **Kazakh (Kazakhstan)** - In Progress
+6. **Kyrgyz (Kyrgyzstan)** - In Progress
+7. **Yakut (Sakha)** - In Progress
+8. **Turkmen (Turkmenistan)** - In Progress
+9. **Uzbek (Uzbekistan)** - In Progress
 
 ---
 
