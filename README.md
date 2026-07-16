@@ -103,6 +103,12 @@
 **English (US)** - Complete
 **Turkish (TR)** - Complete
 **Portuguese (BR)** - Complete
+**French (FR)** - In Progress
+**Kazakh (Kazakhstan)** - In Progress
+**Kyrgyz (Kyrgyzstan)** - In Progress
+**Yakut (Sakha)** - In Progress
+**Turkmen (Turkmenistan)** - In Progress
+**Uzbek (Uzbekistan)** - In Progress
 
 ---
 
