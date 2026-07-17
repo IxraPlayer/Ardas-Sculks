@@ -112,6 +112,9 @@
 10. **Uzbek (Uzbekistan)** - In Progress
 11. **Tatar (Tatarstan)** - In Progress
 12. **Bashkir (Bashkortostan)** - In Progress
+13. **Russian (RU)** - In Progress
+14. **German (DE)** - In Progress
+15. **Arabic (SA)** - In Progress
 
 ---
 
