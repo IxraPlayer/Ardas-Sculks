@@ -103,7 +103,7 @@
 1. **English (US)** - Complete
 2. **Turkish (TR)** - Perfected Complete
 3. **Azerbaijani Turkish (AZ)** - In Progress
-4. **Portuguese (BR)** - Complete
+4. **Portuguese (BR)** - Perfected Complete
 5. **French (FR)** - In Progress
 6. **Kazakh (Kazakhstan)** - In Progress
 7. **Kyrgyz (Kyrgyzstan)** - In Progress
