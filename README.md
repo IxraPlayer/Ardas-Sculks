@@ -101,7 +101,7 @@
 ## Supported Languages
 
 1. **English (US)** - Complete
-2. **Turkish (TR)** - Complete
+2. **Turkish (TR)** - Perfected Complete
 3. **Azerbaijani Turkish (AZ)** - In Progress
 4. **Portuguese (BR)** - Complete
 5. **French (FR)** - In Progress
