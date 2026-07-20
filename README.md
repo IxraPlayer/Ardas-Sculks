@@ -116,6 +116,7 @@
 14. **German (DE)** - In Progress
 15. **Arabic (SA)** - In Progress
 16. **Chinese (ZH)** - In Progress
+17. **Spanish (ES)** - In Progress
 
 ---
 
