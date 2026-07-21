@@ -102,21 +102,22 @@
 
 1. **English (US)** - Complete
 2. **Turkish (TR)** - Perfected Complete
-3. **Azerbaijani Turkish (AZ)** - In Progress
-4. **Portuguese (BR)** - Perfected Complete
-5. **French (FR)** - In Progress
-6. **Kazakh (Kazakhstan)** - In Progress
-7. **Kyrgyz (Kyrgyzstan)** - In Progress
-8. **Yakut (Sakha)** - In Progress
-9. **Turkmen (Turkmenistan)** - In Progress
-10. **Uzbek (Uzbekistan)** - In Progress
-11. **Tatar (Tatarstan)** - In Progress
-12. **Bashkir (Bashkortostan)** - In Progress
-13. **Russian (RU)** - In Progress
-14. **German (DE)** - In Progress
-15. **Arabic (SA)** - In Progress
-16. **Chinese (ZH)** - In Progress
-17. **Spanish (ES)** - In Progress
+3. **Portuguese (BR)** - Perfected Complete
+4. **Azerbaijani Turkish (AZ)** 
+5. **French (FR)** 
+6. **Kazakh (Kazakhstan)** 
+7. **Kyrgyz (Kyrgyzstan)** 
+8. **Yakut (Sakha)** 
+9. **Turkmen (Turkmenistan)** 
+10. **Uzbek (Uzbekistan)** 
+11. **Tatar (Tatarstan)** 
+12. **Bashkir (Bashkortostan)** 
+13. **Russian (RU)** 
+14. **German (DE)** 
+15. **Arabic (SA)** 
+16. **Chinese (ZH)** 
+17. **Spanish (ES)** 
+18. **Uyghur (UG)** 
 
 ---
 
