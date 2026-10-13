@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/magmatic_deepslate2",
+    "up": "sculks_of_arda:block/magmatic_deepslate2",
+    "north": "sculks_of_arda:block/magmatic_deepslate2",
+    "east": "sculks_of_arda:block/magmatic_deepslate2",
+    "south": "sculks_of_arda:block/magmatic_deepslate2",
+    "west": "sculks_of_arda:block/magmatic_deepslate2",
+    "particle": "sculks_of_arda:block/magmatic_deepslate2"
+  },
+  "render_type": "solid"
+}

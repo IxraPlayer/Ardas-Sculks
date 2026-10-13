@@ -1,0 +1,15 @@
+{
+  "feature": "sculks_of_arda:soul_sculk_spawn_p",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING"
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

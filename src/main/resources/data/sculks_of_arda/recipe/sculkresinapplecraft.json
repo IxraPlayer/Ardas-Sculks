@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculkresinbrick"
+    },
+    "b": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculk_resin_apple",
+    "count": 1
+  }
+}

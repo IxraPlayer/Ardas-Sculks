@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "sculks_of_arda:block/radioactive_sculk",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "sculks_of_arda:block/radioactive_sculk"
+    },
+    "axis=z": {
+      "model": "sculks_of_arda:block/radioactive_sculk",
+      "x": 90
+    }
+  }
+}

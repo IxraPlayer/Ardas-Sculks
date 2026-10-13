@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right",
+  "textures": {
+    "particle": "sculks_of_arda:block/wisterya_door",
+    "bottom": "sculks_of_arda:block/wisterya_door",
+    "top": "sculks_of_arda:block/wisterta_door_up"
+  },
+  "render_type": "translucent"
+}

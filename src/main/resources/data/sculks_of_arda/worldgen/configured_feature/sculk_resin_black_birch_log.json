@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "sculks_of_arda:black_birch_log",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "sculks_of_arda:sculk_resin_black_birch_log"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/deepgranulite_bricks",
+    "bottom": "sculks_of_arda:block/deepgranulite_bricks",
+    "top": "sculks_of_arda:block/deepgranulite_bricks",
+    "side": "sculks_of_arda:block/deepgranulite_bricks"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sculks_of_arda:block/carved_vertical_column_deepslate_stone",
+      "x": 90
+    }
+  }
+}

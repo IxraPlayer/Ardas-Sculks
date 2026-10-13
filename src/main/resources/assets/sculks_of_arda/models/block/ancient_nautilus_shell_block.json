@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "up": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "north": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "east": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "south": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "west": "sculks_of_arda:block/ancient_nautilus_shell_block",
+    "particle": "sculks_of_arda:block/ancient_nautilus_shell_block"
+  },
+  "render_type": "solid"
+}

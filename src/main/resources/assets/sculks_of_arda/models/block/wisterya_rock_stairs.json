@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/wisterya_rock",
+    "bottom": "sculks_of_arda:block/wisterya_rock",
+    "top": "sculks_of_arda:block/wisterya_rock",
+    "side": "sculks_of_arda:block/wisterya_rock"
+  },
+  "render_type": "solid"
+}

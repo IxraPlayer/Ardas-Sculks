@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "ardas_vanilla:ruby_ore",
+    "ardas_vanilla:ruby_block",
+    "ardas_vanilla:ruby_block_bricks_decoration",
+    "ardas_vanilla:cut_ruby_block",
+    "ardas_vanilla:ruby_block_obsidian_decoration",
+    "ardas_vanilla:bone_ruby_block",
+    "ardas_vanilla:uranium_ore",
+    "ardas_vanilla:uranium_block"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_chest",
+    "sculks_of_arda:soul_sculk_grass",
+    "sculks_of_arda:mycelium_sculk_grass",
+    "sculks_of_arda:sculk_grass_block"
+  ]
+}

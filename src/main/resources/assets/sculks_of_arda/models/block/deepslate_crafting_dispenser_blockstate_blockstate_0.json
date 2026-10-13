@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/deepslate_crafting_table_ust",
+    "up": "sculks_of_arda:block/deepslate_crafting_table_ust",
+    "north": "sculks_of_arda:block/deepslate_crafting_table_on2",
+    "east": "sculks_of_arda:block/deepslate_crafting_tableyan1",
+    "south": "sculks_of_arda:block/deepslate_crafting_table_arka",
+    "west": "sculks_of_arda:block/deepslate_crafting_table_yan2",
+    "particle": "sculks_of_arda:block/deepslate_crafting_table_ust"
+  },
+  "render_type": "solid"
+}

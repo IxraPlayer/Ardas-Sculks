@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:ancient_stone"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:ancient_stone_slab",
+    "count": 6
+  }
+}

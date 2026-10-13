@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence_gate",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:wisterya_stick"
+    },
+    "b": {
+      "item": "sculks_of_arda:wisterya_planks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:wisterya_fence_gate",
+    "count": 1
+  }
+}

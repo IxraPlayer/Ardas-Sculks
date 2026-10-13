@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "sculks_of_arda:block/ancient_granite",
+    "particle": "sculks_of_arda:block/ancient_granite"
+  },
+  "render_type": "solid"
+}

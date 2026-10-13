@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:custom/sculk_chest_particle"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:custom/sculk_chest_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:custom/sculk_chest_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:custom/sculk_chest_particle",
+      "y": 270
+    }
+  }
+}

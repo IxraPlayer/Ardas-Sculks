@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sacred_obsidian_shard"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sacred_obsidian_stone",
+    "count": 1
+  }
+}

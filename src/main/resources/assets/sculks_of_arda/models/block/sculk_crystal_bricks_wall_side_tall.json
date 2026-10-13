@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "sculks_of_arda:block/sculk_crystal_bricks",
+    "particle": "sculks_of_arda:block/sculk_crystal_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "sculks_of_arda:mushroom_sculk_forest",
+    "sculks_of_arda:sculk_plains",
+    "sculks_of_arda:sculk_woods",
+    "sculks_of_arda:soul_sculk_plains"
+  ],
+  "features": "sculks_of_arda:sculk_light",
+  "step": "underground_ores"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:cut_sculk_block"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:cut_sculk_block_slab",
+    "count": 6
+  }
+}

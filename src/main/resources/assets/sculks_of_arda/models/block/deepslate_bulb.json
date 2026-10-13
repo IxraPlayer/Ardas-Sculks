@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/deepslate_light",
+    "up": "sculks_of_arda:block/deepslate_light",
+    "north": "sculks_of_arda:block/deepslate_light",
+    "east": "sculks_of_arda:block/deepslate_light",
+    "south": "sculks_of_arda:block/deepslate_light",
+    "west": "sculks_of_arda:block/deepslate_light",
+    "particle": "sculks_of_arda:block/deepslate_light"
+  },
+  "render_type": "solid"
+}

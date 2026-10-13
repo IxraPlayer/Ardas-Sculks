@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/blackbirch_planks",
+    "bottom": "sculks_of_arda:block/blackbirch_planks",
+    "top": "sculks_of_arda:block/blackbirch_planks",
+    "side": "sculks_of_arda:block/blackbirch_planks"
+  },
+  "render_type": "solid"
+}

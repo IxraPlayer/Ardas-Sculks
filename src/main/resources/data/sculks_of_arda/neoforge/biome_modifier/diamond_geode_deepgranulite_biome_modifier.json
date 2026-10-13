@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:ancientworldbiomes",
+  "features": "sculks_of_arda:diamond_geode_deepgranulite",
+  "step": "underground_structures"
+}

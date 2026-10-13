@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/resined_ancient_granite",
+    "up": "sculks_of_arda:block/resined_ancient_granite",
+    "north": "sculks_of_arda:block/resined_ancient_granite",
+    "east": "sculks_of_arda:block/resined_ancient_granite",
+    "south": "sculks_of_arda:block/resined_ancient_granite",
+    "west": "sculks_of_arda:block/resined_ancient_granite",
+    "particle": "sculks_of_arda:block/resined_ancient_granite"
+  },
+  "render_type": "solid"
+}

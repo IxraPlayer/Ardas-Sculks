@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/black_brich_leaves",
+    "particle": "sculks_of_arda:block/black_brich_leaves"
+  }
+}

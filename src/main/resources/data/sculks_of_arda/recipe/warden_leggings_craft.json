@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "sculks_of_arda:deep_dark_upgrade_template"
+  },
+  "base": {
+    "item": "sculks_of_arda:sculk_armor_leggings"
+  },
+  "addition": {
+    "item": "minecraft:sculk_catalyst"
+  },
+  "result": {
+    "id": "sculks_of_arda:warden_armor_leggings"
+  }
+}

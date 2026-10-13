@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/newsculkpumkin2",
+    "up": "sculks_of_arda:block/newsculkpumkin2",
+    "north": "sculks_of_arda:block/newsculkpumkin",
+    "east": "sculks_of_arda:block/newsculkpumkin3",
+    "south": "sculks_of_arda:block/newsculkpumkin3",
+    "west": "sculks_of_arda:block/newsculkpumkin3",
+    "particle": "sculks_of_arda:block/newsculkpumkin2"
+  },
+  "render_type": "solid"
+}

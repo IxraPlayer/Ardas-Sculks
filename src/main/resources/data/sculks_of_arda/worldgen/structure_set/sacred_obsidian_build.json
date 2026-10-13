@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculks_of_arda:sacred_obsidian_build",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 12,
+    "separation": 5,
+    "salt": 904922655
+  }
+}

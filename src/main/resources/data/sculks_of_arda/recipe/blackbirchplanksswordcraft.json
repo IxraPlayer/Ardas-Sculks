@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:black_birch_planks"
+    },
+    "b": {
+      "item": "sculks_of_arda:black_birch_stick"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:blackbirchplankssword",
+    "count": 1
+  }
+}

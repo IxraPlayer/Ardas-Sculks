@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:deepslate"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculk_ingot"
+    },
+    "c": {
+      "item": "sculks_of_arda:sculk_ingot_block"
+    },
+    "d": {
+      "item": "sculks_of_arda:sculkerite_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculkerite_upgrade_smithing_template",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/advanced_furnace_top",
+    "up": "sculks_of_arda:block/advanced_furnace_top",
+    "north": "sculks_of_arda:block/advanced_furnace_front_on",
+    "east": "sculks_of_arda:block/advanced_furnace_side",
+    "south": "sculks_of_arda:block/advanced_furnace_side",
+    "west": "sculks_of_arda:block/advanced_furnace_side",
+    "particle": "sculks_of_arda:block/advanced_furnace_top"
+  },
+  "render_type": "solid"
+}

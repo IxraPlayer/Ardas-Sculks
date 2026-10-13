@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculk_resin_clump"
+    },
+    "b": {
+      "item": "sculks_of_arda:rotten_creaking_shell"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:creaking_cookie",
+    "count": 3
+  }
+}

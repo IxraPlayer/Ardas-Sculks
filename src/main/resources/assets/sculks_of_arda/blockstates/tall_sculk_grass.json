@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "sculks_of_arda:block/tall_sculk_grass"
+    },
+    "half=lower": {
+      "model": "sculks_of_arda:block/tall_sculk_grass_bottom"
+    }
+  }
+}

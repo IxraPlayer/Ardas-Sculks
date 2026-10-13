@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:nyxar_head"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:nyxar_phase2_head",
+    "count": 1
+  }
+}

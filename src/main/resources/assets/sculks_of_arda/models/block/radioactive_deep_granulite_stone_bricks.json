@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "sculks_of_arda:block/radioactive_deepgranulite_bricks",
+    "top": "sculks_of_arda:block/radioactive_deepgranulite_bricks",
+    "side": "sculks_of_arda:block/radioactive_deepgranulite_bricks",
+    "overlay": "sculks_of_arda:block/radioactive_deepgranulite_bricks",
+    "particle": "sculks_of_arda:block/radioactive_deepgranulite_bricks"
+  },
+  "render_type": "cutout_mipped"
+}

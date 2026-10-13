@@ -1,0 +1,9 @@
+{
+  "parent": "sculks_of_arda:custom/sculkcrystalbars",
+  "textures": {
+    "all": "sculks_of_arda:block/sculk_crystal_bars",
+    "particle": "sculks_of_arda:block/sculk_crystal_bars",
+    "0": "sculks_of_arda:block/sculk_crystal_bars"
+  },
+  "render_type": "translucent"
+}

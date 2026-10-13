@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/wisterya_log_side",
+    "particle": "sculks_of_arda:block/wisterya_log_side"
+  },
+  "render_type": "solid"
+}

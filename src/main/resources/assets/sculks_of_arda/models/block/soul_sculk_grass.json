@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculka",
+    "up": "sculks_of_arda:block/soulsculktopgrass",
+    "north": "sculks_of_arda:block/soulsculkgrass",
+    "east": "sculks_of_arda:block/soulsculkgrass",
+    "south": "sculks_of_arda:block/soulsculkgrass",
+    "west": "sculks_of_arda:block/soulsculkgrass",
+    "particle": "sculks_of_arda:block/sculka"
+  },
+  "render_type": "solid"
+}

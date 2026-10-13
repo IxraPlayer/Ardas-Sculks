@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:sculkerite_sword"
+    },
+    {
+      "item": "sculks_of_arda:sculkerite_pickaxe"
+    },
+    {
+      "item": "sculks_of_arda:deep_dark_upgrade_template"
+    },
+    {
+      "item": "sculks_of_arda:sculkerite_axe"
+    },
+    {
+      "item": "sculks_of_arda:sculkerite_shovel"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:sculkerite_paxel",
+    "count": 1
+  }
+}

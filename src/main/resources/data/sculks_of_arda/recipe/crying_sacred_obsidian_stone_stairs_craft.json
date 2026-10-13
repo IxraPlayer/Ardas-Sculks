@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:crying_sacred_obsidian_stone"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:crying_sacred_obsidian_stone_stairs",
+    "count": 6
+  }
+}

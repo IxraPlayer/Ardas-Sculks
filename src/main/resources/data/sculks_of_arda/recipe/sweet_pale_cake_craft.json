@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculkresinblock"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculk_resin_clump"
+    },
+    "c": {
+      "item": "sculks_of_arda:sacred_obsidian_shard"
+    },
+    "d": {
+      "item": "sculks_of_arda:rotten_creaking_shell"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sweet_pale_cake",
+    "count": 2
+  }
+}

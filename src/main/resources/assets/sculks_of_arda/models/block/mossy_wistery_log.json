@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/wisterya_log",
+    "up": "sculks_of_arda:block/mossy_wisterya_log",
+    "north": "sculks_of_arda:block/mossy_wisterya_log_side",
+    "east": "sculks_of_arda:block/mossy_wisterya_log_side",
+    "south": "sculks_of_arda:block/mossy_wisterya_log_side",
+    "west": "sculks_of_arda:block/mossy_wisterya_log_side",
+    "particle": "sculks_of_arda:block/wisterya_log"
+  },
+  "render_type": "solid"
+}

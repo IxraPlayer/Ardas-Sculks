@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right_open",
+  "textures": {
+    "particle": "sculks_of_arda:block/black_birch_door",
+    "bottom": "sculks_of_arda:block/black_birch_door",
+    "top": "sculks_of_arda:block/black_birch_door_up"
+  },
+  "render_type": "translucent"
+}

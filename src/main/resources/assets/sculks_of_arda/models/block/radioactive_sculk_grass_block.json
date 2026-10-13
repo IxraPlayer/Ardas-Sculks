@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/radioactive_sculk",
+    "up": "sculks_of_arda:block/radioactive_sculk_sensor_top",
+    "north": "sculks_of_arda:block/radioactive_sculk_grass_block",
+    "east": "sculks_of_arda:block/radioactive_sculk_grass_block",
+    "south": "sculks_of_arda:block/radioactive_sculk_grass_block",
+    "west": "sculks_of_arda:block/radioactive_sculk_grass_block",
+    "particle": "sculks_of_arda:block/radioactive_sculk"
+  },
+  "render_type": "solid"
+}

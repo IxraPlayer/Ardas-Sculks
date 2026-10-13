@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:black_birch_planks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:black_birch_wooden_door",
+    "count": 3
+  }
+}

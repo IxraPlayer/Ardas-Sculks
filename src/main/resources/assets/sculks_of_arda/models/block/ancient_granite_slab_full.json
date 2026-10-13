@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sculks_of_arda:block/ancient_granite",
+    "bottom": "sculks_of_arda:block/ancient_granite",
+    "top": "sculks_of_arda:block/ancient_granite",
+    "side": "sculks_of_arda:block/ancient_granite"
+  },
+  "render_type": "solid"
+}

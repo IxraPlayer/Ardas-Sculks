@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "sculks_of_arda:block/ancientmagma",
+    "top": "sculks_of_arda:block/ancientmagma",
+    "side": "sculks_of_arda:block/ancientmagma",
+    "overlay": "sculks_of_arda:block/ancientmagma",
+    "particle": "sculks_of_arda:block/ancientmagma"
+  },
+  "render_type": "cutout_mipped"
+}

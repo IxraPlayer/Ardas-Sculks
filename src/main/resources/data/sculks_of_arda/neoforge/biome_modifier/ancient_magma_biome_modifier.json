@@ -1,0 +1,15 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "sculks_of_arda:black_birch_forest",
+    "sculks_of_arda:mushroom_sculk_forest",
+    "sculks_of_arda:sculk_deserts",
+    "sculks_of_arda:sculk_plains",
+    "sculks_of_arda:sculk_woods",
+    "sculks_of_arda:soul_sculk_plains",
+    "sculks_of_arda:wisterya_forest",
+    "sculks_of_arda:radioactive_balsa_forest"
+  ],
+  "features": "sculks_of_arda:ancient_magma",
+  "step": "underground_ores"
+}

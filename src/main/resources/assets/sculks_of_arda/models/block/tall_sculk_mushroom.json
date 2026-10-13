@@ -1,0 +1,9 @@
+{
+  "parent": "sculks_of_arda:custom/longsculkmushroom",
+  "textures": {
+    "all": "sculks_of_arda:block/scch2",
+    "particle": "sculks_of_arda:block/myceliumsculktopgrass",
+    "1": "sculks_of_arda:block/sculklongmushroom"
+  },
+  "render_type": "cutout"
+}

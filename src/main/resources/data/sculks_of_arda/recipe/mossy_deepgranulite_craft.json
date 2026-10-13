@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "sculks_of_arda:deep_granulite_stone_bricks"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:mossy_deep_granulite_stone_bricks",
+    "count": 1
+  }
+}

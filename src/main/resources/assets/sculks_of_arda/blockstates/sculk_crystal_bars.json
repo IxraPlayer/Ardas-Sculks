@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars"
+    },
+    "facing=east": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sculks_of_arda:block/sculk_crystal_bars",
+      "x": 90
+    }
+  }
+}

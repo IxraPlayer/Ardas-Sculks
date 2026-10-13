@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "particle": "sculks_of_arda:block/wisterya_planks",
+    "texture": "sculks_of_arda:block/wisterya_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sculks_of_arda:block/sculk_brick_carved_slab"
+    },
+    "type=top": {
+      "model": "sculks_of_arda:block/sculk_brick_carved_slab_top"
+    },
+    "type=double": {
+      "model": "sculks_of_arda:block/sculk_brick_carved_slab_full"
+    }
+  }
+}

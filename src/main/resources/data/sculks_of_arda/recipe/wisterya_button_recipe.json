@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wooden_button",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "item": "sculks_of_arda:wisterya_planks"
+    }
+  ],
+  "result": {
+    "id": "sculks_of_arda:wisterya_button",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sculks_of_arda:block/withered_ancient_shrub",
+    "particle": "sculks_of_arda:block/withered_ancient_shrub"
+  },
+  "render_type": "cutout"
+}

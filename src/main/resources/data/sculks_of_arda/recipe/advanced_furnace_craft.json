@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:deepslate_bricks"
+    },
+    "b": {
+      "item": "minecraft:deepslate"
+    },
+    "c": {
+      "item": "minecraft:blast_furnace"
+    },
+    "d": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:advanced_furnace",
+    "count": 1
+  }
+}

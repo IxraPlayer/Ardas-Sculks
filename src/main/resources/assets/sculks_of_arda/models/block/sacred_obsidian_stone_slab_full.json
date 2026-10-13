@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "sculks_of_arda:block/sacredobsidianstone",
+    "bottom": "sculks_of_arda:block/sacredobsidianstone",
+    "top": "sculks_of_arda:block/sacredobsidianstone",
+    "side": "sculks_of_arda:block/sacredobsidianstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "sculks_of_arda:sculk_temple",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 5,
+    "salt": 1894318880
+  }
+}

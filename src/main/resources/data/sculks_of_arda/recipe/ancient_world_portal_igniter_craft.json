@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    "bcb",
+    " bd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:echo_shard"
+    },
+    "c": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "d": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculk_world",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/chiseled_deepslate1",
+    "up": "sculks_of_arda:block/chiseled_deepslate1",
+    "north": "sculks_of_arda:block/chiseled_deepslate1",
+    "east": "sculks_of_arda:block/chiseled_deepslate1",
+    "south": "sculks_of_arda:block/chiseled_deepslate1",
+    "west": "sculks_of_arda:block/chiseled_deepslate1",
+    "particle": "sculks_of_arda:block/chiseled_deepslate1"
+  },
+  "render_type": "solid"
+}

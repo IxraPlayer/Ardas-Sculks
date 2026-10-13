@@ -1,0 +1,7 @@
+{
+  "parent": "sculks_of_arda:custom/sculkerite_arms",
+  "textures": {
+    "0": "sculks_of_arda:block/sculkeritesculkarms",
+    "particle": "sculks_of_arda:item/sculkeritesculkarms"
+  }
+}

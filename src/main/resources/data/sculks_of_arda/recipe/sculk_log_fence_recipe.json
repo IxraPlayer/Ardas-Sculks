@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_fence",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculk_log_planks"
+    },
+    "b": {
+      "item": "sculks_of_arda:sculk_planks_stick"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculk_log_fence",
+    "count": 3
+  }
+}

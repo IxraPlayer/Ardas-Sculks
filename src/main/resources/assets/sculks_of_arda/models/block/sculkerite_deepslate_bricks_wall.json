@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "particle": "sculks_of_arda:block/sculkerite_deepslate_bircks"
+  },
+  "render_type": "solid"
+}

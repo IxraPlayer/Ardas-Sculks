@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:radioactive_balsa_planks"
+    },
+    "b": {
+      "item": "sculks_of_arda:radioactive_balsa_stick"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:radioactive_balsa_wooden_pickaxe",
+    "count": 1
+  }
+}

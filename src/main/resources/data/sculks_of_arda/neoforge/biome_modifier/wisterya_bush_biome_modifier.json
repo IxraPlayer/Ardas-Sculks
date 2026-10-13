@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "sculks_of_arda:wisterya_forest",
+  "features": "sculks_of_arda:wisterya_bush",
+  "step": "vegetal_decoration"
+}

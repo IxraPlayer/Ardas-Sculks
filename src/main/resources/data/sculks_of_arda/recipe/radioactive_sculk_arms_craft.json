@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "aca",
+    "da "
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:radioactive_sculk_piece"
+    },
+    "b": {
+      "item": "sculks_of_arda:radioactive_sculk_sensor_part"
+    },
+    "c": {
+      "item": "sculks_of_arda:sculk_ingot"
+    },
+    "d": {
+      "item": "sculks_of_arda:radioactive_warden_claws"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:radioactive_sculk_arm",
+    "count": 1
+  }
+}

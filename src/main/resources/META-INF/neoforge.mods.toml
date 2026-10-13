@@ -1,0 +1,54 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="GNU Lesser General Public License version 2.1 (LGPLv2.1)"
+
+[[mods]]
+modId="sculks_of_arda"
+version="1.5"
+displayName="Arda's Sculks LIGHT"
+displayURL="https://github.com/IxraPlayer/Ardas-Sculks"
+logoFile="logo.png"
+credits="\u00A7eSpecial thanks to \u00A7lGood Games \u00A7r\u00A7efor support!"
+authors="\u00A7b\u00A7lArda"
+description="\u00A7bImproves the sculk mechanics with new tools, items, and terrifying bosses. \u00A7nExplore the deep dark like never before! \u00A7r\u00A77(LIGHT edition: optimized, smaller file size, cleaned up.)"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.sculks_of_arda]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1.65,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.sculks_of_arda]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.sculks_of_arda]]
+    modId="geckolib"
+    type="required"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sculks_of_arda]]
+    modId="geckolib"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sculks_of_arda]]
+    modId="jei"
+    type="optional"
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

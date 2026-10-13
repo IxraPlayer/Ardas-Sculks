@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sculks_of_arda:block/soul_grass",
+    "particle": "sculks_of_arda:block/soul_grass"
+  },
+  "render_type": "cutout"
+}

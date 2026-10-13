@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "sculks_of_arda:sculk_woods",
+    "sculks_of_arda:sculk_plains"
+  ],
+  "features": "sculks_of_arda:tall_sculk_grass",
+  "step": "vegetal_decoration"
+}

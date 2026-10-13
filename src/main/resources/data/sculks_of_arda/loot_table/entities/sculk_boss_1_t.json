@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sculks_of_arda:sculk_golem_head"
+        }
+      ]
+    }
+  ],
+  "random_sequence": "sculks_of_arda:entities/sculk_boss_1_t"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:sculk_log_planks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:sculk_planks_crafting_table",
+    "count": 1
+  }
+}

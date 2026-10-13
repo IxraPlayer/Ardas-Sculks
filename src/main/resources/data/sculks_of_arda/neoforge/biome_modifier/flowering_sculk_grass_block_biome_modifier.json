@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "sculks_of_arda:sculk_plains",
+    "sculks_of_arda:sculk_woods"
+  ],
+  "features": "sculks_of_arda:flowering_sculk_grass_block",
+  "step": "underground_ores"
+}

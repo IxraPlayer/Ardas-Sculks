@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sculks_of_arda:block/radioactive_bush",
+    "particle": "sculks_of_arda:block/radioactive_bush"
+  },
+  "render_type": "cutout"
+}

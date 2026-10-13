@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sculks_of_arda:block/sculk_cactus_bottom",
+    "up": "sculks_of_arda:block/sculk_cactus_top",
+    "north": "sculks_of_arda:block/sculk_cactus_side",
+    "east": "sculks_of_arda:block/sculk_cactus_side",
+    "south": "sculks_of_arda:block/sculk_cactus_side",
+    "west": "sculks_of_arda:block/sculk_cactus_side",
+    "particle": "sculks_of_arda:block/sculk_cactus_bottom"
+  },
+  "render_type": "solid"
+}

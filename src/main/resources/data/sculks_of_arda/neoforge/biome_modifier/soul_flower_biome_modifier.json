@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "sculks_of_arda:soul_sculk_plains",
+  "features": "sculks_of_arda:soul_flower",
+  "step": "vegetal_decoration"
+}

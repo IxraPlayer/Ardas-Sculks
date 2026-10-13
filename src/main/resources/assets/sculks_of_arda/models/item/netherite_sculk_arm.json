@@ -1,0 +1,7 @@
+{
+  "parent": "sculks_of_arda:custom/netherite_arms",
+  "textures": {
+    "0": "sculks_of_arda:block/netheritesculkarms",
+    "particle": "sculks_of_arda:item/netheritesculkarms"
+  }
+}

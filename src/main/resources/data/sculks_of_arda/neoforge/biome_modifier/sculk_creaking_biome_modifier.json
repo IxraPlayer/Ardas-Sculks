@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "sculks_of_arda:black_birch_forest",
+  "spawners": {
+    "type": "sculks_of_arda:sculk_creaking",
+    "weight": 3,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

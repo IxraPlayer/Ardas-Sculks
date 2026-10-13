@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right_open",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculk_crystal_door_alt",
+    "bottom": "sculks_of_arda:block/sculk_crystal_door_alt",
+    "top": "sculks_of_arda:block/sculk_crystal_door_ust"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "bottom": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "top": "sculks_of_arda:block/sculkerite_deepslate_bircks",
+    "side": "sculks_of_arda:block/sculkerite_deepslate_bircks"
+  },
+  "render_type": "solid"
+}

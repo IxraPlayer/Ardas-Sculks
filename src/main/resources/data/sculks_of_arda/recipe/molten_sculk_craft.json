@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 1600,
+  "ingredient": {
+    "item": "sculks_of_arda:bucket_filled_with_sculk"
+  },
+  "result": {
+    "id": "sculks_of_arda:molten_sculk_bucket"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "sculks_of_arda:custom/soulsculksensor3",
+  "textures": {
+    "all": "sculks_of_arda:block/invisiblock",
+    "particle": "sculks_of_arda:block/soulsculktopgrass",
+    "1": "sculks_of_arda:block/soulsculkgrass",
+    "2": "sculks_of_arda:block/soulsculktopgrass",
+    "3": "sculks_of_arda:block/sculka",
+    "4": "sculks_of_arda:block/a4"
+  },
+  "render_type": "cutout"
+}

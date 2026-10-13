@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "sculks_of_arda:chiseled_deep_granulite_bricks"
+    }
+  },
+  "result": {
+    "id": "sculks_of_arda:carved_vertical_column_deepslate_stone",
+    "count": 2
+  }
+}

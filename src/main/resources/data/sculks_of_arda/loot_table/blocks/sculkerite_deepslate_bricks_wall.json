@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "sculks_of_arda:blocks/sculkerite_deepslate_bricks_wall",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sculks_of_arda:sculkerite_deepslate_bricks_wall"
+        }
+      ]
+    }
+  ]
+}

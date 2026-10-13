@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "sculks_of_arda:block/diamond_sculk_ore2",
+    "particle": "sculks_of_arda:block/diamond_sculk_ore2"
+  },
+  "render_type": "solid"
+}

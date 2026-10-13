@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:ancient_granite_wall",
+    "sculks_of_arda:ancient_stone_wall",
+    "sculks_of_arda:cut_sculk_block_wall",
+    "sculks_of_arda:sculk_bricks_wall",
+    "sculks_of_arda:sculk_brick_carved_wall",
+    "sculks_of_arda:sculk_brick_wall",
+    "sculks_of_arda:crying_sacred_obsidian_stone_wall",
+    "sculks_of_arda:sacred_obsidian_stone_wall",
+    "sculks_of_arda:deep_granulite_stone_wall",
+    "sculks_of_arda:wisterya_rock_wall",
+    "sculks_of_arda:sculk_resin_block_wall",
+    "sculks_of_arda:sculk_resin_bricks_wall",
+    "sculks_of_arda:sculk_bone_block_wall",
+    "sculks_of_arda:sculk_bone_bricks_wall",
+    "sculks_of_arda:sculk_bone_tiles_wall",
+    "sculks_of_arda:sculkerite_deepslate_bricks_wall",
+    "sculks_of_arda:sculk_crystal_tiles_wall",
+    "sculks_of_arda:sculk_crystal_bricks_wall",
+    "sculks_of_arda:deep_granulite_bricks_wall"
+  ]
+}

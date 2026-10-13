@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "deep_dark",
+  "features": "sculks_of_arda:emerald_sculk_ore",
+  "step": "underground_ores"
+}

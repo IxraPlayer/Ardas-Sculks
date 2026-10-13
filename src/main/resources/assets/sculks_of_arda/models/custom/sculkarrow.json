@@ -1,0 +1,149 @@
+{
+  "credit": "Made with Blockbench",
+  "texture_size": [
+    32,
+    32
+  ],
+  "elements": [
+    {
+      "from": [
+        5,
+        -2,
+        5
+      ],
+      "to": [
+        11,
+        4,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            5,
+            13,
+            8,
+            16
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2,
+            13,
+            5,
+            16
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            11,
+            13,
+            14,
+            16
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8,
+            13,
+            11,
+            16
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8,
+            13,
+            5,
+            10
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            11,
+            10,
+            8,
+            13
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        7,
+        0
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        7.25,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        8.5,
+        0
+      ]
+    },
+    "gui": {
+      "rotation": [
+        32,
+        -51,
+        0
+      ],
+      "translation": [
+        0.25,
+        6,
+        0
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        2.25,
+        0
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        6.5,
+        0
+      ]
+    }
+  }
+}

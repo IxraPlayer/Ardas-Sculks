@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "sculks_of_arda:block/sacredobsidianthorns",
+    "particle": "sculks_of_arda:block/sacredobsidianthorns"
+  },
+  "render_type": "cutout"
+}

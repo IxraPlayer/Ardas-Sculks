@@ -1,0 +1,10 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "particle": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "bottom": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "top": "sculks_of_arda:block/cryingsacredobsidianstone",
+    "side": "sculks_of_arda:block/cryingsacredobsidianstone"
+  },
+  "render_type": "solid"
+}

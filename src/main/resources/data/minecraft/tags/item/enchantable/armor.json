@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "sculks_of_arda:sculk_armor_helmet",
+    "sculks_of_arda:sculk_armor_chestplate",
+    "sculks_of_arda:sculk_armor_leggings",
+    "sculks_of_arda:sculk_armor_boots",
+    "sculks_of_arda:warden_armor_helmet",
+    "sculks_of_arda:warden_armor_chestplate",
+    "sculks_of_arda:warden_armor_leggings",
+    "sculks_of_arda:warden_armor_boots"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:tree",
+  "config": {
+    "force_dirt": false,
+    "ignore_vines": true,
+    "minimum_size": {
+      "type": "minecraft:two_layers_feature_size",
+      "limit": 1,
+      "lower_size": 0,
+      "upper_size": 2
+    },
+    "dirt_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:sculk"
+      }
+    },
+    "trunk_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "sculks_of_arda:sculk_cactus",
+        "Properties": {
+          "facing": "north"
+        }
+      }
+    },
+    "foliage_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    },
+    "trunk_placer": {
+      "type": "minecraft:forking_trunk_placer",
+      "base_height": 5,
+      "height_rand_a": 2,
+      "height_rand_b": 2
+    },
+    "foliage_placer": {
+      "type": "minecraft:acacia_foliage_placer",
+      "radius": 2,
+      "offset": 0
+    },
+    "decorators": [
+      {
+        "type": "sculks_of_arda:sculk_deserts_tree_fruit_decorator"
+      },
+      {
+        "type": "sculks_of_arda:sculk_deserts_tree_trunk_decorator"
+      },
+      {
+        "type": "sculks_of_arda:sculk_deserts_tree_leave_decorator"
+      }
+    ]
+  }
+}
